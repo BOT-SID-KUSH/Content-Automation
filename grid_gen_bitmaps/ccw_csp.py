@@ -576,8 +576,8 @@ def fill_grid_completely(num_puzzles=5, use_quick_check=True, previous_content=N
         progress_bar = st.progress(0)
         status_text = st.empty()
         grid_display = st.empty()
-        
-        for i in range(num_puzzles):
+        i=0
+        while i<num_puzzles:
             status_text.text(f"Generating puzzle {i+1}/{num_puzzles}...")
             
             if not reattempt:
@@ -592,7 +592,7 @@ def fill_grid_completely(num_puzzles=5, use_quick_check=True, previous_content=N
             crossword = Crossword(file_path + str((counter % num_of_formats) + 1) + '.txt')
             creator = CrosswordCreator(crossword, maps, use_quick_check)
             
-            with st.spinner(f"Solving grid {counter}..."):
+            with st.spinner(f"Solving grid {i+1}..."):
                 assignment = creator.solve_bitmap(use_quick_check)
             
             if not assignment:
@@ -620,8 +620,9 @@ def fill_grid_completely(num_puzzles=5, use_quick_check=True, previous_content=N
                 counter += 1
                 current_puzzle_num += 1
                 reattempt = False
+                i+=1
                 
-            progress_bar.progress((i + 1) / num_puzzles)
+            progress_bar.progress((i) / num_puzzles)
             
         status_text.text(f"Generated {len(generated_grids)} puzzles successfully!")
         return generated_grids
