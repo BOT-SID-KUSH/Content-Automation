@@ -1,0 +1,119 @@
+puzzleId	word	row	column	direction	clueContent	Edge (y/n)	Clue length	Image prompt	Image addition (if needed)	Puzzle number	Difficult word (y / n)
+000001	CRYSTAL	2	1	across	Quartz	Y	6			1	
+000001	ROC	3	1	across	<i>	Y	3	An image of a crocodile 	Text under the image: C__	1	
+000001	ANA	3	5	across	Santa __	N	8			1	
+000001	OS	4	1	across	Operating System	Y	16			1	
+000001	KITS	4	4	across	Tool sets	N	9			1	
+000001	SEMI	5	1	across	Half	Y	4			1	
+000001	HE	5	6	across	Helium	N	6			1	
+000001	S	6	1	across	After R	Y	7			1	
+000001	INNER	6	3	across	__ peace	N	8			1	
+000001	WISDOM	7	1	across	Foresight	Y	9			1	
+000001	OASES	8	1	across	Desert spots	Y	12			1	
+000001	A	8	7	across	First letter	N	12			1	
+000001	RG	9	1	across	Research group	Y	14			1	
+000001	REAP	9	4	across	"Sow" opposite	N	14			1	
+000001	DOG	10	1	across	<i>	Y	3	Image of a dog		1	
+000001	SIT	10	5	across	Rest	Y	4			1	
+000001	CROSSWORD	1	2	down	<i>	Y	3	Image of a crossword puzzle		1	
+000001	ROSE	1	3	down	<i>	Y	3	Image of a rose		1	
+000001	IAGO	6	3	down	Jafar's parrot	N	14			1	
+000001	YC	1	4	down	Yacht club	Y	10			1	
+000001	MISS	4	4	down	Female address	N	14			1	
+000001	G	9	4	down	Government	N	10			1	
+000001	S	1	5	down	Stratosphere	Y	12			1	
+000001	KINDER	3	5	down	Gentler	N	7			1	
+000001	TAI	1	6	down	__ chi	Y	6			1	
+000001	NOSES	5	6	down	Sniffers	N	8			1	
+000001	ANTHEM	1	7	down	Patriotic song	Y	14			1	
+000001	AI	8	7	down	W__ver	N	6			1	
+000001	LASER	1	8	down	<i>	Y	3	Image of a laser beam	Text under the image: __ beam	1	
+000001	APT	7	8	down	Appropriate	Y	11			1	
+000002	UNICORN	2	1	across	<i>	Y	3	Image of a unicorn		2	
+000002	NIT	3	1	across	Tiny egg	Y	8			2	
+000002	SEE	3	5	across	Look at	N	7			2	
+000002	IC	4	1	across	<i>	Y	3	Image of an ice cube	Text under the image: _ce	2	
+000002	SITE	4	4	across	Area map	N	8			2	
+000002	VEST	5	1	across	<i>	Y	3	Image of a sweater vest		2	
+000002	UD	5	6	across	Univ. Diploma	N	13			2	
+000002	E	6	1	across	Energy	Y	6			2	
+000002	HURRY	6	3	across	Move fast	N	9			2	
+000002	REOPEN	7	1	across	Open again	Y	10			2	
+000002	SATIN	8	1	across	Shiny fabric	Y	12			2	
+000002	Y	8	7	across	Yourself	N	8			2	
+000002	AS	9	1	across	Canv__	Y	6			2	
+000002	DANE	9	4	across	From Denmark	N	12			2	
+000002	LYN	10	1	across	__ Collins	Y	10			2	
+000002	LAT	10	5	across	Los Angeles Times	Y	17			2	
+000002	UNIVERSAL	1	2	down	Global	Y	6			2	
+000002	NICE	1	3	down	Pleasant	Y	8			2	
+000002	EASY	6	3	down	Beginner mode	N	13			2	
+000002	IT	1	4	down	<i>	Y	3	Image of a guitar	Text under the image: Gu__ar	2	
+000002	SHOT	4	4	down	Photo snap	N	10			2	
+000002	N	9	4	down	Nutrition	N	9			2	
+000002	C	1	5	down	<i>	Y	3	Image of a can	text under the image: _an	2	
+000002	STUPID	3	5	down	Not smart	N	9			2	
+000002	OSI	1	6	down	P__ts	Y	5			2	
+000002	RENAL	5	6	down	Kidney-related	N	14			2	
+000002	RETURN	1	7	down	Come back	Y	9			2	
+000002	NA	8	7	down	Not all	N	7			2	
+000002	NEEDY	1	8	down	Wanting	Y	7			2	
+000002	YET	7	8	down	Still	Y	5			2	
+000003	PLASTER	2	1	across	Wall cover	Y	10			3	
+000003	RAGE	3	1	across	Ire	Y	3			3	
+000003	LI	3	6	across	Liters	N	6			3	
+000003	OT	4	1	across	Operating Theater	Y	17			3	
+000003	CHEF	4	4	across	Gourmet pro	N	11			3	
+000003	BEER	5	1	across	<i>	Y	3	Image of a bottle of beer		3	
+000003	CT	5	6	across	Corporate Tax	N	13			3	
+000003	ARREST	6	1	across	Seize	Y	5			3	
+000003	T	7	1	across	_hanks	Y	6			3	
+000003	ETHOS	7	3	across	Moral code	N	10			3	
+000003	ICC	8	1	across	Cricket Org	Y	11			3	
+000003	ARA	8	5	across	Constellation	N	13			3	
+000003	OPTIMAL	9	1	across	Most fit	Y	8			3	
+000003	NT	10	1	across	<i>	Y	3	Image of a potted plant	Pla__	3	
+000003	BELT	10	4	across	<i>	Y	3	Image of a brown leather belt 		3	
+000003	PROBATION	1	2	down	Trial period	Y	12			3	
+000003	LATER	1	3	down	Not now	Y	7			3	
+000003	CPT	7	3	down	Cost per ten	N	12			3	
+000003	AG	1	4	down	<i>	Y	3	Image of a handbag	B__	3	
+000003	ERECT	4	4	down	Raise	N	5			3	
+000003	SECRET	1	5	down	Hush-hush	Y	9			3	
+000003	IB	8	5	down	__ex 	N	5			3	
+000003	T	1	6	down	_-rex	Y	5			3	
+000003	H	3	6	down	Horsepower	N	10			3	
+000003	SHAME	5	6	down	Feel bad	N	8			3	
+000003	ELECTORAL	1	7	down	__ vote	Y	7			3	
+000003	RIFT	1	8	down	Breakup	Y	7			3	
+000003	SALT	6	8	down	<i>	Y	3	Image of a salt in a salt shaker		3	
+000004	OFFENCE	2	1	across	Legal wrong	Y	11			4	
+000004	RUB	3	1	across	<i>	Y	3	Image of a rubber band	text under the image: __ber	4	
+000004	IAN	3	5	across	__ Fleming	N	10			4	
+000004	CR	4	1	across	<i>	Y	3	Image of a scroll	text under the image: S__oll	4	
+000004	CORD	4	4	across	Rope piece	N	10			4	
+000004	HYPE	5	1	across	Media buzz	Y	10			4	
+000004	RO	5	6	across	Return on	N	9			4	
+000004	E	6	1	across	Error	Y	5			4	
+000004	ARROW	6	3	across	Bow's mate	N	10			4	
+000004	STREET	7	1	across	Avenue	Y	6			4	
+000004	TOTAL	8	1	across	Whole	Y	5			4	
+000004	P	8	7	across	Pediatric	N	9			4	
+000004	RF	9	1	across	<i>	Y	3	Image of a woman surfing	Text under the image: Su__	4	
+000004	LINE	9	4	across	Queue	N	5			4	
+000004	AUX	10	1	across	Cable type	Y	10			4	
+000004	CAN	10	5	across	Soup box	Y	8			4	
+000004	ORCHESTRA	1	2	down	Symphony group	Y	14			4	
+000004	FURY	1	3	down	<i>	Y	3	Image of a very angry emoji		4	
+000004	TOFU	6	3	down	Bean curd	N	9			4	
+000004	FB	1	4	down	Facebook	Y	8			4	
+000004	PART	4	4	down	Piece	N	5			4	
+000004	X	9	4	down	Xerography	N	10			4	
+000004	E	1	5	down	Evidence	Y	8			4	
+000004	CEREAL	3	5	down	Breakfast item	N	14			4	
+000004	NIO	1	6	down	EV maker	Y	8			4	
+000004	RELIC	5	6	down	Antique	N	7			4	
+000004	CARROT	1	7	down	<i>	Y	3	Image of a carrot		4	
+000004	NA	8	7	down	Reti__	N	6			4	
+000004	ENDOW	1	8	down	Gift	Y	4			4	
+000004	PEN	7	8	down	<i>	Y	3	Image of a pen		4	

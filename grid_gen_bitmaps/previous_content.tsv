@@ -1,0 +1,2116 @@
+puzzleId	word	row	column	direction	clueContent	Edge (y/n)	Clue length	Image prompt	Image addition (if needed)	Puzzle number	Difficult word (y / n)
+000001	CRYSTAL	2	1	across	Quartz	Y	6			1	
+000001	ROC	3	1	across	<i>	Y	3	An image of a crocodile 	Text under the image: C__	1	
+000001	ANA	3	5	across	Santa __	N	8			1	
+000001	OS	4	1	across	Operating System	Y	16			1	
+000001	KITS	4	4	across	Tool sets	N	9			1	
+000001	SEMI	5	1	across	Half	Y	4			1	
+000001	HE	5	6	across	Helium	N	6			1	
+000001	S	6	1	across	After R	Y	7			1	
+000001	INNER	6	3	across	__ peace	N	8			1	
+000001	WISDOM	7	1	across	Foresight	Y	9			1	
+000001	OASES	8	1	across	Desert spots	Y	12			1	
+000001	A	8	7	across	First letter	N	12			1	
+000001	RG	9	1	across	Research group	Y	14			1	
+000001	REAP	9	4	across	"Sow" opposite	N	14			1	
+000001	DOG	10	1	across	<i>	Y	3	Image of a dog		1	
+000001	SIT	10	5	across	Rest	Y	4			1	
+000001	CROSSWORD	1	2	down	<i>	Y	3	Image of a crossword puzzle		1	
+000001	ROSE	1	3	down	<i>	Y	3	Image of a rose		1	
+000001	IAGO	6	3	down	Jafar's parrot	N	14			1	
+000001	YC	1	4	down	Yacht club	Y	10			1	
+000001	MISS	4	4	down	Female address	N	14			1	
+000001	G	9	4	down	Government	N	10			1	
+000001	S	1	5	down	Stratosphere	Y	12			1	
+000001	KINDER	3	5	down	Gentler	N	7			1	
+000001	TAI	1	6	down	__ chi	Y	6			1	
+000001	NOSES	5	6	down	Sniffers	N	8			1	
+000001	ANTHEM	1	7	down	Patriotic song	Y	14			1	
+000001	AI	8	7	down	W__ver	N	6			1	
+000001	LASER	1	8	down	<i>	Y	3	Image of a laser beam	Text under the image: __ beam	1	
+000001	APT	7	8	down	Appropriate	Y	11			1	
+000002	UNICORN	2	1	across	<i>	Y	3	Image of a unicorn		2	
+000002	NIT	3	1	across	Tiny egg	Y	8			2	
+000002	SEE	3	5	across	Look at	N	7			2	
+000002	IC	4	1	across	<i>	Y	3	Image of an ice cube	Text under the image: _ce	2	
+000002	SITE	4	4	across	Area map	N	8			2	
+000002	VEST	5	1	across	<i>	Y	3	Image of a sweater vest		2	
+000002	UD	5	6	across	Univ. Diploma	N	13			2	
+000002	E	6	1	across	Energy	Y	6			2	
+000002	HURRY	6	3	across	Move fast	N	9			2	
+000002	REOPEN	7	1	across	Open again	Y	10			2	
+000002	SATIN	8	1	across	Shiny fabric	Y	12			2	
+000002	Y	8	7	across	Yourself	N	8			2	
+000002	AS	9	1	across	Canv__	Y	6			2	
+000002	DANE	9	4	across	From Denmark	N	12			2	
+000002	LYN	10	1	across	__ Collins	Y	10			2	
+000002	LAT	10	5	across	Los Angeles Times	Y	17			2	
+000002	UNIVERSAL	1	2	down	Global	Y	6			2	
+000002	NICE	1	3	down	Pleasant	Y	8			2	
+000002	EASY	6	3	down	Beginner mode	N	13			2	
+000002	IT	1	4	down	<i>	Y	3	Image of a guitar	Text under the image: Gu__ar	2	
+000002	SHOT	4	4	down	Photo snap	N	10			2	
+000002	N	9	4	down	Nutrition	N	9			2	
+000002	C	1	5	down	<i>	Y	3	Image of a can	text under the image: _an	2	
+000002	STUPID	3	5	down	Not smart	N	9			2	
+000002	OSI	1	6	down	P__ts	Y	5			2	
+000002	RENAL	5	6	down	Kidney-related	N	14			2	
+000002	RETURN	1	7	down	Come back	Y	9			2	
+000002	NA	8	7	down	Not all	N	7			2	
+000002	NEEDY	1	8	down	Wanting	Y	7			2	
+000002	YET	7	8	down	Still	Y	5			2	
+000003	PLASTER	2	1	across	Wall cover	Y	10			3	
+000003	RAGE	3	1	across	Ire	Y	3			3	
+000003	LI	3	6	across	Liters	N	6			3	
+000003	OT	4	1	across	Operating Theater	Y	17			3	
+000003	CHEF	4	4	across	Gourmet pro	N	11			3	
+000003	BEER	5	1	across	<i>	Y	3	Image of a bottle of beer		3	
+000003	CT	5	6	across	Corporate Tax	N	13			3	
+000003	ARREST	6	1	across	Seize	Y	5			3	
+000003	T	7	1	across	_hanks	Y	6			3	
+000003	ETHOS	7	3	across	Moral code	N	10			3	
+000003	ICC	8	1	across	Cricket Org	Y	11			3	
+000003	ARA	8	5	across	Constellation	N	13			3	
+000003	OPTIMAL	9	1	across	Most fit	Y	8			3	
+000003	NT	10	1	across	<i>	Y	3	Image of a potted plant	Pla__	3	
+000003	BELT	10	4	across	<i>	Y	3	Image of a brown leather belt 		3	
+000003	PROBATION	1	2	down	Trial period	Y	12			3	
+000003	LATER	1	3	down	Not now	Y	7			3	
+000003	CPT	7	3	down	Cost per ten	N	12			3	
+000003	AG	1	4	down	<i>	Y	3	Image of a handbag	B__	3	
+000003	ERECT	4	4	down	Raise	N	5			3	
+000003	SECRET	1	5	down	Hush-hush	Y	9			3	
+000003	IB	8	5	down	__ex 	N	5			3	
+000003	T	1	6	down	_-rex	Y	5			3	
+000003	H	3	6	down	Horsepower	N	10			3	
+000003	SHAME	5	6	down	Feel bad	N	8			3	
+000003	ELECTORAL	1	7	down	__ vote	Y	7			3	
+000003	RIFT	1	8	down	Breakup	Y	7			3	
+000003	SALT	6	8	down	<i>	Y	3	Image of a salt in a salt shaker		3	
+000004	OFFENCE	2	1	across	Legal wrong	Y	11			4	
+000004	RUB	3	1	across	<i>	Y	3	Image of a rubber band	text under the image: __ber	4	
+000004	IAN	3	5	across	__ Fleming	N	10			4	
+000004	CR	4	1	across	<i>	Y	3	Image of a scroll	text under the image: S__oll	4	
+000004	CORD	4	4	across	Rope piece	N	10			4	
+000004	HYPE	5	1	across	Media buzz	Y	10			4	
+000004	RO	5	6	across	Return on	N	9			4	
+000004	E	6	1	across	Error	Y	5			4	
+000004	ARROW	6	3	across	Bow's mate	N	10			4	
+000004	STREET	7	1	across	Avenue	Y	6			4	
+000004	TOTAL	8	1	across	Whole	Y	5			4	
+000004	P	8	7	across	Pediatric	N	9			4	
+000004	RF	9	1	across	<i>	Y	3	Image of a woman surfing	Text under the image: Su__	4	
+000004	LINE	9	4	across	Queue	N	5			4	
+000004	AUX	10	1	across	Cable type	Y	10			4	
+000004	CAN	10	5	across	Soup box	Y	8			4	
+000004	ORCHESTRA	1	2	down	Symphony group	Y	14			4	
+000004	FURY	1	3	down	<i>	Y	3	Image of a very angry emoji		4	
+000004	TOFU	6	3	down	Bean curd	N	9			4	
+000004	FB	1	4	down	Facebook	Y	8			4	
+000004	PART	4	4	down	Piece	N	5			4	
+000004	X	9	4	down	Xerography	N	10			4	
+000004	E	1	5	down	Evidence	Y	8			4	
+000004	CEREAL	3	5	down	Breakfast item	N	14			4	
+000004	NIO	1	6	down	EV maker	Y	8			4	
+000004	RELIC	5	6	down	Antique	N	7			4	
+000004	CARROT	1	7	down	<i>	Y	3	Image of a carrot		4	
+000004	NA	8	7	down	Reti__	N	6			4	
+000004	ENDOW	1	8	down	Gift	Y	4			4	
+000004	PEN	7	8	down	<i>	Y	3	Image of a pen		4	
+000005	PERFECT	2	1	across	10/10	Y	5			5	
+000005	HEIR	3	1	across	Inheritor	Y	9			5	y
+000005	RU	3	6	across	Rutgers Univ	N	12			5	
+000005	Y	4	1	across	Yes	Y	3			5	
+000005	TOWER	4	3	across	Pisa monument	N	13			5	
+000005	STEW	5	1	across	Brew	Y	4			5	
+000005	AK	5	6	across	Alaska	N	6			5	
+000005	IR	6	1	across	Infrared 	Y	9			5	
+000005	NST	6	4	across	I__ead	N	6			5	y
+000005	CAY	7	1	across	__man islands	Y	13			5	
+000005	PET	7	5	across	Cat or dog	N	10			5	
+000005	IDEAL	8	1	across	Best case	Y	9			5	
+000005	O	8	7	across	Oxygen	N	6			5	
+000005	SE	9	1	across	Special Edition	Y	15			5	
+000005	WILL	9	4	across	Testament	N	9			5	y
+000005	TRUSTED	10	1	across	Credible	Y	8			5	y
+000005	PHYSICIST	1	2	down	Scientist	Y	9			5	
+000005	EE	1	3	down	Everything else	Y	15			5	
+000005	TRADER	4	3	down	Merchant	N	8			5	
+000005	RITE	1	4	down	<i>	Y	3	Image of a typewriter	Text under the image: Typew__r	5	
+000005	YE	6	4	down	__ old shoppe	N	13			5	
+000005	U	9	4	down	Urban	N	5			5	
+000005	FROWN	1	5	down	<i>	Y	3	Image of a frowning person		5	
+000005	AWS	7	5	down	Jigs__	N	6			5	
+000005	E	1	6	down	<i>	Y	3	Image of an elephant		5	
+000005	W	3	6	down	Window	N	6			5	
+000005	SPLIT	5	6	down	__ ends	N	7			5	y
+000005	CREATE	1	7	down	Build	Y	5			5	
+000005	LE	8	7	down	__gendary	N	9			5	
+000005	TURK	1	8	down	<i>	Y	3	Image of a turkey	Text on the right of the image: __ey	5	
+000005	TOLD	6	8	down	Shared a secret	Y	15			5	
+000006	WHEREAS	2	1	across	In contrast	Y	11			6	
+000006	EARN	3	1	across	Make money	Y	10			6	
+000006	CW	3	6	across	Cold Weather	N	12			6	
+000006	DRS	4	1	across	<i>	Y	3	Image of two doctors		6	
+000006	STA	4	5	across	__dium	N	6			6	
+000006	NP	5	1	across	Now Playing	Y	11			6	
+000006	ATOP	5	4	across	Above	N	5			6	
+000006	E	6	1	across	Exchange	Y	8			6	
+000006	AFAR	6	3	across	At a distance	N	13			6	
+000006	SWIFT	7	1	across	Singer Taylor	Y	13			6	
+000006	V	7	7	across	Voyage	N	6			6	
+000006	DI	8	1	across	<i>	Y	3	Image of dice	__ce	6	
+000006	AIDE	8	4	across	Assistant	N	9			6	
+000006	AFRICAN	9	1	across	From Kenya	Y	10			6	
+000006	YEAR	10	1	across	Twelve months	Y	13			6	
+000006	YT	10	6	across	M__h	Y	4			6	
+000006	WEDNESDAY	1	2	down	Tuesday follower	Y	16			6	
+000006	HARP	1	3	down	<i>	Y	3	Image of a harp		6	
+000006	WIFE	6	3	down	Better half	N	11			6	
+000006	ERS	1	4	down	<i>	Y	3	Image of a sport team's jersey	J__ey	6	
+000006	AI	5	4	down	American Idol	N	13			6	
+000006	RA	8	4	down	Pa__de	N	6			6	
+000006	RN	1	5	down	<i>	Y	3	Image of a corn cob	Co__	6	
+000006	AFFAIR	4	5	down	Scandal	N	7			6	
+000006	E	1	6	down	Evermore	Y	8			6	
+000006	STATIC	3	6	down	White noise	N	11			6	
+000006	ACTOR	1	7	down	Cast member	Y	11			6	
+000006	DAY	7	7	down	Night and __	N	12			6	
+000006	SWAP	1	8	down	Switch	Y	6			6	
+000006	VENT	6	8	down	Ad__ure	Y	7			6	
+000007	PERSIST	2	1	across	Keep on	Y	7			7	y
+000007	OMIT	3	1	across	Leave out	Y	9			7	
+000007	NI	3	6	across	__ssan Motors	N	13			7	
+000007	R	4	1	across	<i>	Y	3	Image of a red dot	Text to the right of the image: _ed	7	
+000007	SEDAN	4	3	across	Car type	N	8			7	y
+000007	TAKE	5	1	across	Catch	Y	5			7	
+000007	TY	5	6	across	Thank you	N	9			7	
+000007	RL	6	1	across	Real life	Y	9			7	
+000007	PAC	6	4	across	__ Man	N	6			7	
+000007	ALS	7	1	across	Ice Bucket Challenge	Y	20			7	
+000007	SHH	7	5	across	Silence!	N	8			7	
+000007	YEAST	8	1	across	Bread raiser	Y	12			7	
+000007	E	8	7	across	Egypt	N	5			7	
+000007	AG	9	1	across	<i>	Y	3	Image of multiple suitcases on an airport trolley	Text under image: Bagg__e	7	
+000007	POSE	9	4	across	Yoga stance	N	11			7	
+000007	LEARNED	10	1	across	Wise	Y	4			7	
+000007	PORTRAYAL	1	2	down	Depiction	Y	9			7	y
+000007	EM	1	3	down	En follower	Y	11			7	
+000007	ALLEGE	4	3	down	Accuse	N	6			7	y
+000007	RISK	1	4	down	Calculated __	Y	13			7	
+000007	SA	6	4	down	South Africa	N	12			7	
+000007	A	9	4	down	Alpha	N	5			7	
+000007	STEEP	1	5	down	<i>	Y	3	Image of a person climbing a steep hill		7	
+000007	SPR	7	5	down	__eadsheet	N	10			7	
+000007	I	1	6	down	<i>	Y	3	Image of an ice cream in a cone	Text under image: _ce cream	7	
+000007	D	3	6	down	Dad	N	3			7	
+000007	ASTON	5	6	down	__ Martin	N	9			7	y
+000007	SNATCH	1	7	down	Take quickly	Y	12			7	
+000007	SE	8	7	down	Con__nt	N	7			7	
+000007	TINY	1	8	down	<i>	Y	3	Image of magnifying glass zooming in on ant		7	
+000007	HEED	6	8	down	Pay mind	Y	8			7	
+000008	CONTEST	2	1	across	Competition	Y	11			8	
+000008	OVAL	3	1	across	<i>	Y	3	Image of an oval 		8	
+000008	TY	3	6	across	S__lish	N	7			8	
+000008	NET	4	1	across	<i>	Y	3	Image of fishing net		8	
+000008	COP	4	5	across	Police officer	N	14			8	
+000008	TR	5	1	across	Tape Recorder	Y	13			8	
+000008	CARE	5	4	across	Be concerned	N	12			8	
+000008	E	6	1	across	Emblem	Y	6			8	
+000008	COVE	6	3	across	Small bay	N	9			8	
+000008	SMILE	7	1	across	<i>	Y	3	Image of a smiling face		8	
+000008	T	7	7	across	Tropical	N	8			8	
+000008	TO	8	1	across	Time Out	Y	8			8	
+000008	LAME	8	4	across	__nt	N	4			8	
+000008	ERRATIC	9	1	across	Unpredictable	Y	13			8	
+000008	DEAR	10	1	across	__th	Y	4			8	
+000008	NH	10	6	across	National Highway	Y	16			8	
+000008	CONTESTED	1	2	down	Fought for	Y	10			8	
+000008	OVER	1	3	down	Not under	Y	9			8	
+000008	MORE	6	3	down	Any__	N	5			8	
+000008	NAT	1	4	down	<i>	Y	3	Image of a pinata	Pi__a	8	
+000008	CI	5	4	down	Cast Iron	N	9			8	
+000008	RA	8	4	down	Red Alert	N	9			8	
+000008	TL	1	5	down	Cat__e	Y	6			8	
+000008	COLLAR	4	5	down	Shirt part	N	10			8	
+000008	E	1	6	down	Envelope	Y	8			8	
+000008	CAVEAT	3	6	down	Warning	N	7			8	
+000008	STORE	1	7	down	<i>	Y	3	Image of a grocery store		8	
+000008	MIN	7	7	down	Max's counterpart	N	17			8	
+000008	TYPE	1	8	down	Variety	Y	7			8	
+000008	TECH	6	8	down	Meta industry	Y	13			8	
+000009	SHARING	2	1	across	Splitting	Y	9			9	
+000009	CORN	3	1	across	<i>	Y	3	Image of a corn cob		9	
+000009	AR	3	6	across	Annual Report	N	13			9	
+000009	ISC	4	1	across	D__us	Y	5			9	
+000009	DNI	4	5	across	Do not include	N	14			9	
+000009	EE	5	1	across	<i>	Y	3	Image of a deer	D__r	9	
+000009	DENT	5	4	across	Ding	N	4			9	
+000009	N	6	1	across	Neutrality	Y	10			9	
+000009	DEFY	6	3	across	Challenge	N	9			9	
+000009	THOSE	7	1	across	That and that	Y	13			9	
+000009	T	7	7	across	Troubleshoot	N	12			9	
+000009	IA	8	1	across	Internal Affairs	Y	16			9	
+000009	EACH	8	4	across	Apiece	N	6			9	
+000009	STARTER	9	1	across	Appetizer	Y	9			9	
+000009	TENT	10	1	across	<i>	Y	3	Image of a tent		9	
+000009	RU	10	6	across	Rig Up	Y	6			9	
+000009	SCIENTIST	1	2	down	Einstein 	Y	9			9	
+000009	HOSE	1	3	down	<i>	Y	3	Image of a hose		9	
+000009	HATE	6	3	down	Loathe	N	6			9	
+000009	ARC	1	4	down	Rainbow shape	Y	13			9	
+000009	DO	5	4	down	__ not disturb	N	14			9	
+000009	AN	8	4	down	Army nurse	N	10			9	
+000009	RN	1	5	down	Royal navy 	Y	11			9	
+000009	DESERT	4	5	down	Sahara	N	6			9	
+000009	I	1	6	down	Inoculate	Y	9			9	
+000009	DEFEAT	3	6	down	Not win	N	7			9	
+000009	NANNY	1	7	down	Sitter	Y	6			9	
+000009	CER	7	7	down	Sau__	N	5			9	
+000009	GRIT	1	8	down	Courage	Y	7			9	
+000009	THRU	6	8	down	Drive-__ ATM	Y	12			9	
+000010	DISMISS	2	1	across	Brush aside	Y	11			10	
+000010	ICON	3	1	across	Symbol	Y	6			10	
+000010	NW	3	6	across	North west	N	10			10	
+000010	SEN	4	1	across	<i>	Y	3	Image of a gift	Pre__t	10	
+000010	BOA	4	5	across	Feather wrap	N	12			10	
+000010	GD	5	1	across	Granddaughter	Y	13			10	
+000010	BARN	5	4	across	Farm structure	N	14			10	
+000010	U	6	1	across	Unraveling	Y	10			10	
+000010	SECT	6	3	across	Faction	N	7			10	
+000010	STUCK	7	1	across	Glued	Y	5			10	
+000010	W	7	7	across	Wholesale	N	9			10	
+000010	TA	8	1	across	<i>	Y	3	Image of tally marks depicting 5	__lly	10	
+000010	OUCH	8	4	across	Pained cry	N	10			10	
+000010	EXAMPLE	9	1	across	Specimen	Y	8			10	
+000010	DINE	10	1	across	Feast	Y	5			10	
+000010	UN	10	6	across	User Name	Y	9			10	
+000010	DISGUSTED	1	2	down	Repulsed	Y	8			10	
+000010	ICED	1	3	down	<i>	Y	3	Image of a glass of iced tea	__ tea	10	
+000010	TAXI	6	3	down	Cab	N	3			10	
+000010	SON	1	4	down	Junior, to senior	Y	17			10	
+000010	SU	5	4	down	Start up	N	8			10	
+000010	AN	8	4	down	Grammar article	N	15			10	
+000010	MN	1	5	down	Mobile Node	Y	11			10	
+000010	BECOME	4	5	down	Turn into	N	9			10	
+000010	I	1	6	down	Interconnection	Y	15			10	
+000010	BACKUP	3	6	down	Alternative	N	11			10	
+000010	SNORT	1	7	down	Pig noise	Y	9			10	
+000010	CLU	7	7	down	In__de	N	6			10	
+000010	SWAN	1	8	down	<i>	Y	3	Image of a swan		10	
+000010	WHEN	6	8	down	Question of time	Y	16			10	
+000011	SIDEBAR	2	1	across	News supplement	Y	15			11	
+000011	CLAN	3	1	across	Family	Y	6			11	
+000011	GA	3	6	across	Ground Attack	N	13			11	
+000011	A	4	1	across	Association	Y	11			11	
+000011	TENET	4	3	across	Doctrine	N	8			11	
+000011	TEAM	5	1	across	<i>	Y	3	Image of a football team in a huddle		11	
+000011	NE	5	6	across	North-east	N	10			11	
+000011	TX	6	1	across	Texas	Y	5			11	
+000011	YAD	6	4	across	D__, two parts	N	14			11	
+000011	ECO	7	1	across	Friendly prefix	Y	15			11	
+000011	VAC	7	5	across	__uum	N	5			11	
+000011	RINSE	8	1	across	Washer cycle	Y	12			11	
+000011	U	8	7	across	Upgrade	N	7			11	
+000011	ET	9	1	across	<i>	Y	3	Image of a bottle of ketchup	K__chup	11	
+000011	ARAB	9	4	across	A of UAE	N	8			11	
+000011	DEVOTEE	10	1	across	Zealot	Y	6			11	
+000011	SCATTERED	1	2	down	Strewn	Y	6			11	
+000011	IL	1	3	down	Ag__e	Y	5			11	
+000011	EXCITE	4	3	down	Stir up	N	7			11	
+000011	DATA	1	4	down	<i>	Y	3	Image of a line graph		11	
+000011	ON	6	4	down	Not off	N	7			11	
+000011	V	9	4	down	Vector	N	6			11	
+000011	ENEMY	1	5	down	Foe	Y	3			11	
+000011	SAO	7	5	down	__ Paulo	N	8			11	
+000011	B	1	6	down	Boundary	Y	8			11	
+000011	N	3	6	down	Novelty	N	7			11	
+000011	AVERT	5	6	down	Forestall	N	9			11	
+000011	AGENDA	1	7	down	To-do list	Y	10			11	
+000011	AE	8	7	down	Alg__	N	5			11	
+000011	RATE	1	8	down	Evaluate	Y	8			11	
+000011	CUBE	6	8	down	<i>	Y	3	Image of a cube		11	
+000012	SUFFICE	2	1	across	Be enough	Y	9			12	y
+000012	TIER	3	1	across	<i>	Y	3	Image of a tiered cake	Arrow pointing to one of the tiers	12	
+000012	AX	3	6	across	T__icab	N	7			12	
+000012	Y	4	1	across	_ Axis	Y	6			12	
+000012	ROUTE	4	3	across	Way to go	N	9			12	
+000012	LENS	5	1	across	<i>	Y	3	Image of a camera lens		12	
+000012	TC	5	6	across	Take care	N	9			12	
+000012	IA	6	1	across	Encycloped__	Y	12			12	
+000012	TML	6	4	across	Too Much Love	N	13			12	
+000012	SSW	7	1	across	<i>	Y	3	Image of a compass pointing at 202.5 degree		12	y
+000012	AER	7	5	across	__oplane	N	8			12	
+000012	TITAN	8	1	across	<i>	Y	3	Image of a ship	Text under the image: __ic	12	
+000012	I	8	7	across	_ love you	N	10			12	
+000012	IL	9	1	across	p__ot	Y	5			12	
+000012	AGED	9	4	across	Elderly	N	7			12	
+000012	CYCLONE	10	1	across	Storm	Y	5			12	y
+000012	STYLISTIC	1	2	down	Artful	Y	6			12	
+000012	UI	1	3	down	University of Iowa	Y	18			12	
+000012	EASILY	4	3	down	Simply	N	6			12	y
+000012	FERN	1	4	down	<i>	Y	3	Image of fern plant		12	y
+000012	WT	6	4	down	Ne__on	N	6			12	
+000012	C	9	4	down	Celsius	N	7			12	
+000012	FROST	1	5	down	Poet Robert __	Y	14			12	
+000012	AAL	7	5	down	Avg Annual Loss	N	15			12	
+000012	I	1	6	down	Iodine	Y	6			12	
+000012	U	3	6	down	You	N	3			12	
+000012	MANGO	5	6	down	King of fruits	N	14			12	
+000012	CATTLE	1	7	down	Dairy animals	Y	13			12	
+000012	EN	8	7	down	English	N	7			12	
+000012	EXEC	1	8	down	__utive	Y	7			12	y
+000012	RIDE	6	8	down	Trip	Y	4			12	
+000013	PARTAKE	2	1	across	Join	Y	4			13	y
+000013	RCO	3	1	across	Recruitment Office	Y	18			13	
+000013	YEL	3	5	across	__low	N	5			13	
+000013	ON	4	1	across	<i>	Y	3	Image of a spoon	Text under the image: spo__	13	
+000013	SEED	4	4	across	Plant starter	N	13			13	
+000013	MERE	5	1	across	Only	Y	4			13	
+000013	PE	5	6	across	Private Equity	N	14			13	
+000013	I	6	1	across	Myself	Y	6			13	
+000013	ORDER	6	3	across	Decorum	N	7			13	
+000013	SILVER	7	1	across	<i>	Y	3	Image of a silver medal		13	
+000013	INLET	8	1	across	Bay area	Y	8			13	y
+000013	X	8	7	across	Ten	N	3			13	
+000013	NT	9	1	across	Network Traffic	Y	15			13	
+000013	REAP	9	4	across	Gather crops	N	12			13	y
+000013	GOT	10	1	across	America's __ Talent	Y	19			13	
+000013	RAS	10	5	across	<i>	Y	3	Image of two tiaras	Text under the image: Tia__	13	
+000013	PROMISING	1	2	down	Hopeful	Y	7			13	
+000013	ACNE	1	3	down	<i>	Y	3	Image of a face with acne		13	
+000013	INTO	6	3	down	Interested	N	10			13	
+000013	RO	1	4	down	P__ject	Y	7			13	
+000013	ROLL	4	4	down	Dice throw	N	10			13	y
+000013	T	9	4	down	Transformation	N	14			13	
+000013	T	1	5	down	<i>	Y	3	Image of a tshirt		13	
+000013	SERVER	3	5	down	Web host	N	8			13	
+000013	AYE	1	6	down	Pirate's yes	Y	12			13	
+000013	DETER	5	6	down	Prevent	N	7			13	y
+000013	KEEPER	1	7	down	Goalie	Y	6			13	
+000013	AA	8	7	down	Battery type	N	12			13	
+000013	ELDER	1	8	down	Family head	Y	11			13	
+000013	XPS	7	8	down	Xerox Printers	Y	14			13	y
+000014	EVIDENT	2	1	across	Obvious	Y	7			14	
+000014	PINE	3	1	across	<i>	Y	3	image of a pine tree		14	
+000014	EO	3	6	across	Th__ry	N	6			14	
+000014	I	4	1	across	Oneself	Y	7			14	
+000014	TANGO	4	3	across	Latin dance	N	11			14	y
+000014	SPEC	5	1	across	Specification	Y	13			14	
+000014	LL	5	6	across	Lower Left	N	10			14	
+000014	CHROME	6	1	across	<i>	Y	3	Image of the Google Chrome logo		14	
+000014	O	7	1	across	Round	Y	5			14	
+000014	ENACT	7	3	across	Make law	N	8			14	
+000014	PAS	8	1	across	<i>	Y	3	Image of a chocolate pastry	Text under the image: __try	14	
+000014	CTI	8	5	across	Ta__c	N	5			14	
+000014	ALTERED	9	1	across	Made fit	Y	8			14	y
+000014	LW	10	1	across	A__ays	Y	6			14	
+000014	NODE	10	4	across	Link spot	Y	9			14	y
+000014	EPISCOPAL	1	2	down	Open __ Church	Y	14			14	y
+000014	VI	1	3	down	<i>	Y	3	Image of a vial 	Text under the image: __al	14	
+000014	PH	4	3	down	Acidity scale	N	13			14	
+000014	ALW	7	3	down	Sand__ood	N	9			14	
+000014	INTEREST	1	4	down	Loan cost	Y	9			14	
+000014	DEACON	1	5	down	Church aid	Y	10			14	y
+000014	EN	8	5	down	__glish	N	7			14	
+000014	E	1	6	down	<i>	Y	3	Image of a compass with a circle around E		14	
+000014	N	3	6	down	Network	N	7			14	
+000014	MACRO	5	6	down	Large	N	5			14	y
+000014	NEGLECTED	1	7	down	Ignored	Y	7			14	
+000014	TOOL	1	8	down	<i>	Y	3	Image of a tool box	Text under the image: __ box	14	
+000014	TIDE	6	8	down	Moon's pull	Y	11			14	
+000015	SNIPPET	2	1	across	Short bit	Y	9			15	y
+000015	EY	3	1	across	<i>	Y	3	Image of a key	Text under the image: K__	15	
+000015	ROAR	3	4	across	Lion's cry	N	10			15	
+000015	NEVER	4	1	across	Not ever	Y	8			15	
+000015	Y	4	7	across	Why	N	3			15	
+000015	S	5	1	across	Snake-shaped	Y	12			15	
+000015	GATE	5	3	across	Entryway	N	8			15	
+000015	EPIC	6	1	across	Homer's art	Y	11			15	
+000015	PG	6	6	across	Post Graduate	N	13			15	
+000015	LO	7	1	across	<i>	Y	3	Image of a sailor in front of a helm	Text under the image: Sai__r	15	
+000015	HAIR	7	4	across	Tresses	N	7			15	
+000015	EXCEL	8	1	across	__lent	Y	6			15	y
+000015	E	8	7	across	Environment	N	11			15	
+000015	S	9	1	across	Senate	Y	6			15	
+000015	TRADE	9	3	across	Buy or sell	N	11			15	
+000015	SWU	10	1	across	Software User	Y	13			15	
+000015	SET	10	5	across	Fixed	Y	5			15	
+000015	SENSELESS	1	2	down	Mindless	Y	8			15	y
+000015	NYE	1	3	down	Dec 31st	Y	8			15	
+000015	POX	5	3	down	Viral rash	N	10			15	
+000015	W	9	3	down	Worcestershire	N	14			15	
+000015	I	1	4	down	One	Y	3			15	
+000015	VGI	3	4	down	Viral Growth Index	N	18			15	
+000015	CTU	7	4	down	A__al	N	5			15	
+000015	PREACHER	1	5	down	Sermonizer 	Y	11			15	y
+000015	PORT	1	6	down	<i>	Y	3	Image of a docked ship		15	
+000015	ALAS	6	6	down	Oh dear!	N	8			15	y
+000015	EA	1	7	down	Rep__t	Y	6			15	
+000015	EPI	4	7	down	__center	N	8			15	
+000015	DE	8	7	down	Data estimate	N	13			15	
+000015	TRY	1	8	down	Give a go	Y	9			15	
+000015	GREET	5	8	down	<i>	Y	3	Image of a greeting card with a floral front	Text under the image: __ing card	15	
+000016	PODCAST	2	1	across	Talk show	Y	9			16	
+000016	RAIL	3	1	across	<i>	Y	3	Image of a train track		16	
+000016	TI	3	6	across	... so la __	N	12			16	
+000016	E	4	1	across	East	Y	4			16	
+000016	VOCAL	4	3	across	Verbal	N	6			16	
+000016	DRAW	5	1	across	Tie	Y	3			16	y
+000016	TT	5	6	across	Table tennis	N	12			16	
+000016	IE	6	1	across	Internal error	Y	14			16	
+000016	NSU	6	4	across	Peni__la	N	8			16	y
+000016	CLY	7	1	across	Stoi__	Y	6			16	
+000016	TED	7	5	across	__ Talks	N	8			16	
+000016	TASTE	8	1	across	Flavor	Y	6			16	
+000016	U	8	7	across	Unit	N	4			16	
+000016	OT	9	1	across	Over time	Y	9			16	
+000016	BEAK	9	4	across	Bird's nose	N	11			16	
+000016	REVERSE	10	1	across	<i>	Y	3	Image of a stick shift	Text on the right of the image: R	16	
+000016	PREDICTOR	1	2	down	Future __ (oracle)	Y	18			16	y
+000016	OA	1	3	down	<i>	Y	3	Image of a road	Text under the image: R__d	16	
+000016	RELATE	4	3	down	Connect	N	7			16	
+000016	DIVA	1	4	down	Opera star	Y	10			16	
+000016	YS	6	4	down	Anno__	N	6			16	
+000016	V	9	4	down	Velocity	N	8			16	
+000016	CLOWN	1	5	down	<i>	Y	3	Image of a clown		16	
+000016	TBE	7	5	down	To be exact	N	11			16	
+000016	A	1	6	down	Ampere	Y	6			16	
+000016	C	3	6	down	_++	N	3			16	
+000016	STEER	5	6	down	Drive	N	5			16	y
+000016	STATUE	1	7	down	<i>	Y	3	Image of statue of liberty	Text to the right of the image: __ of Liberty	16	
+000016	AS	8	7	down	Also known __	N	13			16	
+000016	TILT	1	8	down	Slant	Y	5			16	
+000016	DUKE	6	8	down	Baron	Y	5			16	y
+000017	PARTNER	2	1	across	Ally	Y	4			17	y
+000017	AZ	3	1	across	Arizona	Y	7			17	
+000017	ROAD	3	4	across	Highway	N	7			17	
+000017	RACER	4	1	across	<i>	Y	3	Image of a motorcycle racer in full speed		17	
+000017	X	4	7	across	Variable value	N	14			17	
+000017	A	5	1	across	Good grade	Y	10			17	
+000017	SAME	5	3	across	Ditto	N	5			17	
+000017	LIST	6	1	across	To do __	Y	8			17	
+000017	ZM	6	6	across	Zambia	N	6			17	y
+000017	YZ	7	1	across	Graph axes	Y	10			17	
+000017	IDEA	7	4	across	Thought	N	7			17	
+000017	SALSA	8	1	across	<i>	Y	3	Image of a salsa dancer		17	
+000017	T	8	7	across	Tea	N	3			17	
+000017	I	9	1	across	<i>	Y	3	Image of a pie	Text under the image: P_e	17	
+000017	EERIE	9	3	across	Chilling	N	8			17	y
+000017	SYM	10	1	across	Symbol	Y	6			17	
+000017	TYR	10	5	across	Norse god	Y	9			17	
+000017	PARALYSIS	1	2	down	Immobile state	Y	14			17	y
+000017	AZA	1	3	down	__lea	Y	5			17	
+000017	IZA	5	3	down	W__rd	N	5			17	
+000017	Y	9	3	down	Yen	N	3			17	
+000017	R	1	4	down	<i>	Y	3	Image of an urn	Text under the image: U_n	17	
+000017	CSS	3	4	down	Web style	N	9			17	
+000017	LEM	7	4	down	Low emission	N	12			17	
+000017	TREATISE	1	5	down	Thesis	Y	6			17	y
+000017	NORM	1	6	down	Status quo	Y	10			17	
+000017	DART	6	6	down	Pub game	N	8			17	
+000017	EA	1	7	down	<i>	Y	3	Image of a heart emoji	Text under the image: H__rt	17	
+000017	EZE	4	7	down	Sne__	N	5			17	
+000017	IY	8	7	down	Industrial Yard	N	15			17	
+000017	RDX	1	8	down	Explosive	Y	9			17	
+000017	MATER	5	8	down	Alma __	Y	7			17	y
+000018	PAINTED	2	1	across	<i>	Y	3	Image of a man painting a wall		18	
+000018	HI	3	1	across	Hello	Y	5			18	
+000018	ORAL	3	4	across	Spoken	N	6			18	
+000018	ELITE	4	1	across	VIP group	Y	9			18	
+000018	S	4	7	across	Singular	N	8			18	
+000018	N	5	1	across	Negative	Y	8			18	
+000018	SAKE	5	3	across	Rice wine	N	9			18	y
+000018	OUST	6	1	across	Kick out	Y	8			18	y
+000018	TC	6	6	across	Terms & Conditions	N	18			18	
+000018	TW	7	1	across	Two words	Y	9			18	
+000018	IDLE	7	4	across	Doing nothing	N	13			18	
+000018	YAHOO	8	1	across	__ mail	Y	7			18	y
+000018	D	8	7	across	Bad grade	N	9			18	
+000018	P	9	1	across	Perimeter	Y	9			18	
+000018	ANOVA	9	3	across	Cas__	N	5			18	y
+000018	EXA	10	1	across	<i>	Y	3	Image of a hexagon	Text under the image: H__gon	18	
+000018	MAR	10	5	across	Spoil or ruin	Y	13			18	
+000018	PHENOTYPE	1	2	down	Visible trait	Y	13			18	y
+000018	AIL	1	3	down	<i>	Y	3	Image of the back of a hand with an arrow pointing to the nail	N__	18	
+000018	UWA	5	3	down	K__it	N	5			18	
+000018	X	9	3	down	Unknown value	N	13			18	
+000018	I	1	4	down	Roman one	Y	9			18	
+000018	ISS	3	4	down	Intl space stn	N	14			18	
+000018	HAA	7	4	down	Hi-altitude area	N	16			18	
+000018	NOTATION	1	5	down	Music sign	Y	10			18	
+000018	TREK	1	6	down	<i>	Y	3	Image of a woman in trekking gear	Text under the image: __king	18	
+000018	DOOM	6	6	down	Gloomy end	N	10			18	
+000018	EA	1	7	down	Electronic Arts	Y	15			18	
+000018	ETL	4	7	down	Enterprise Tool	N	15			18	
+000018	VA	8	7	down	Veterans Affairs	N	16			18	
+000018	DLS	1	8	down	Digital Library System	Y	22			18	
+000018	CEDAR	5	8	down	<i>	Y	3	Image of a cedar wood		18	y
+000019	CLUSTER	2	1	across	Group	Y	5			19	y
+000019	OO	3	1	across	Open Ocean	Y	10			19	
+000019	COAT	3	4	across	Formal wear	N	11			19	
+000019	CHARM	4	1	across	Lucky __	Y	8			19	
+000019	X	4	7	across	_-ray	N	5			19	
+000019	K	5	1	across	Okay	Y	4			19	
+000019	BABE	5	3	across	Sweet one	N	9			19	y
+000019	ROOM	6	1	across	<i>	Y	3	Image of a broom	text under the image: B__	19	
+000019	WG	6	6	across	Weight	N	6			19	
+000019	OH	7	1	across	<i>	Y	3	Image of play doh clay	text under the image: Play d__	19	
+000019	BLUR	7	4	across	Out of focus	N	12			19	
+000019	AMPLE	8	1	across	Abundant	Y	8			19	y
+000019	E	8	7	across	Environment	N	11			19	
+000019	C	9	1	across	3rd letter	Y	10			19	
+000019	PEACE	9	3	across	Calm and quiet	N	14			19	
+000019	HYS	10	1	across	Hydraulics	Y	10			19	
+000019	PYD	10	5	across	Python Development	Y	18			19	
+000019	COCKROACH	1	2	down	<i>	Y	3	Image of a COCKROACH		19	
+000019	LOH	1	3	down	Loss of Hearing	Y	15			19	
+000019	OHM	5	3	down	Resistance unit	N	15			19	
+000019	Y	9	3	down	York	N	4			19	
+000019	U	1	4	down	University	Y	10			19	
+000019	ABO	3	4	down	Aboriginal 	N	11			19	y
+000019	PPS	7	4	down	Prepaid Service	N	15			19	
+000019	SCRAMBLE	1	5	down	<i>	Y	3	Image of a scrambled eggs dish	Text under the image: __d eggs	19	
+000019	TOMB	1	6	down	<i>	Y	3	Image of a TOMB		19	
+000019	LEAP	6	6	down	Big hop	N	7			19	
+000019	EA	1	7	down	Ar__	Y	4			19	
+000019	EWU	4	7	down	East WA Univ	N	12			19	y
+000019	CY	8	7	down	Calendar Year	N	13			19	
+000019	RTX	1	8	down	Real-Time Exchange	Y	18			19	
+000019	GREED	5	8	down	Gluttony	Y	8			19	
+000020	SCATTER	2	1	across	Disperse seeds	Y	14			20	
+000020	EZ	3	1	across	Enhanced Zoom	Y	13			20	y
+000020	HEAT	3	4	across	Warmth	N	6			20	
+000020	PEARL	4	1	across	<i>	Y	3	Image of a pearl in a oyster shell		20	
+000020	W	4	7	across	Washington	N	10			20	
+000020	T	5	1	across	Temperature	Y	11			20	
+000020	MILD	5	3	across	Not spicy	N	9			20	
+000020	EVIL	6	1	across	<i>	Y	3	Image of a devil emoji		20	
+000020	AM	6	6	across	Morning hours	N	13			20	
+000020	MT	7	1	across	Mountain	Y	8			20	
+000020	LIMO	7	4	across	Long car	N	8			20	
+000020	BAKER	8	1	across	<i>	Y	3	Image of baker holding freshly baked cookies		20	
+000020	T	8	7	across	Telephone	N	9			20	
+000020	E	9	1	across	Explanation	Y	11			20	
+000020	BRIDE	9	3	across	Groom's partner	N	15			20	
+000020	RYA	10	1	across	Nordic rug	Y	10			20	y
+000020	SYL	10	5	across	__via Plath	Y	11			20	
+000020	SEPTEMBER	1	2	down	Ninth month	Y	11			20	
+000020	CZE	1	3	down	Czech Rep.	Y	10			20	
+000020	VTA	5	3	down	Virtual Asst.	N	13			20	
+000020	Y	9	3	down	Letter after X	N	14			20	
+000020	A	1	4	down	Artificial	Y	10			20	
+000020	AMI	3	4	down	French pal	N	10			20	
+000020	KBA	7	4	down	Key Biz Area	N	12			20	y
+000020	THRILLER	1	5	down	Suspense novel	Y	14			20	y
+000020	TELL	1	6	down	Show and __	Y	11			20	
+000020	IRIS	6	6	down	Flower	N	6			20	y
+000020	EA	1	7	down	Executive Assistant	Y	19			20	
+000020	DAM	4	7	down	Embankment	N	10			20	
+000020	DY	8	7	down	Dynamic Yield	N	13			20	
+000020	RTW	1	8	down	<i>	Y	3	Image of an artwork in a gallery	Text under the image: A__ork	20	
+000020	MOTEL	5	8	down	Roadside Inn	Y	12			20	
+000021	ATHEISM	2	1	across	Opposite of theism	Y	18			21	
+000021	CAZ	3	1	across	Al__ar of Seville 	Y	18			21	y
+000021	WTA	3	5	across	Winner Takes All 	N	17			21	
+000021	CX	4	1	across	Customer Experience	Y	19			21	
+000021	REIN	4	4	across	Horse gear	N	10			21	y
+000021	LIME	5	1	across	<i>	Y	3	Image of a cut-up lime		21	
+000021	FL	5	6	across	Florida	N	7			21	
+000021	A	6	1	across	Automobile 	Y	11			21	
+000021	IMPLY	6	3	across	Mean 	N	5			21	
+000021	IGNORE	7	1	across	Pay no mind	Y	11			21	
+000021	MOTTO	8	1	across	Maxim	Y	5			21	y
+000021	Y	8	7	across	Fork shape	N	10			21	
+000021	EL	9	1	across	<i>	Y	3	Image of an Elm tree	Text under the image: __m	21	
+000021	EXAM	9	4	across	Test	N	4			21	
+000021	DFW	10	1	across	Dallas, Fort Worth	Y	18			21	
+000021	YAA	10	5	across	Yes, sure!	Y	10			21	
+000021	ACCLAIMED	1	2	down	Well known	Y	10			21	
+000021	TAXI	1	3	down	<i>	Y	3	Image of a taxi		21	
+000021	GOLF	6	3	down	Tiger's game	N	12			21	y
+000021	HZ	1	4	down	Hertz	Y	5			21	
+000021	MINT	4	4	down	Green herb	N	10			21	
+000021	W	9	4	down	West	N	4			21	
+000021	E	1	5	down	<i>	Y	3	Image of a hose	Text under the image: Hos_	21	
+000021	REMOTE	3	5	down	__ control	N	10			21	
+000021	IWE	1	6	down	B__ekly	Y	7			21	
+000021	PROXY	5	6	down	Stand-in	N	8			21	y
+000021	STIFLE	1	7	down	Suppress	Y	8			21	
+000021	AA	8	7	down	All aboard	N	10			21	
+000021	MANLY	1	8	down	Masculine	Y	9			21	
+000021	YMA	7	8	down	Young Media Alliance	Y	20			21	
+000022	CRUSHED	2	1	across	Flattened	Y	9			22	y
+000022	OY	3	1	across	<i>	Y	3	Image of a toy robot	Text under the image: T__	22	
+000022	TOAD	3	4	across	Frog-like	N	9			22	
+000022	METRO	4	1	across	<i>	Y	3	Image of a metro rail		22	
+000022	T	4	7	across	Transportation	N	14			22	
+000022	P	5	1	across	Professor 	Y	10			22	
+000022	RAFT	5	3	across	River ride	N	10			22	y
+000022	LIMP	6	1	across	Walk unevenly	Y	13			22	y
+000022	XS	6	6	across	Very small	N	10			22	
+000022	AV	7	1	across	<i>	Y	3	Image of an ATV	text under the image: _T_	22	
+000022	PATH	7	4	across	Trail way	N	9			22	
+000022	INDEX	8	1	across	Book end	Y	8			22	
+000022	R	8	7	across	Range	N	5			22	
+000022	N	9	1	across	Navigation	Y	10			22	
+000022	PRIZE	9	3	across	Like the Nobel	N	14			22	
+000022	TYA	10	1	across	<i>	Y	3	Image of the courtyard of a house		22	
+000022	SYD	10	5	across	Sydney	Y	6			22	
+000022	COMPLAINT	1	2	down	Grumble	Y	7			22	y
+000022	RYE	1	3	down	Whiskey grain	Y	13			22	
+000022	IVN	5	3	down	I've never	N	10			22	
+000022	Y	9	3	down	Yearbook 	N	9			22	
+000022	U	1	4	down	A, E, I, O, _	Y	13			22	
+000022	TRM	3	4	down	Tram	N	4			22	
+000022	DPA	7	4	down	Data Prot. Act	N	14			22	
+000022	STRAPPER	1	5	down	Brawny type	Y	11			22	y
+000022	HOOF	1	6	down	<i>	Y	3	Image of a horse's hoof		22	
+000022	AXIS	6	6	down	Earth's line	N	12			22	
+000022	EA	1	7	down	Oc__n	Y	5			22	
+000022	TXT	4	7	down	Text	N	4			22	
+000022	ZY	8	7	down	Zany	N	4			22	
+000022	DDT	1	8	down	Dynamic debug tech	Y	18			22	
+000022	SHRED	5	8	down	<i>	Y	3	Image of a sheet of paper half-shredded in a paper shredder		22	y
+000023	GLOWING	2	1	across	Lit up	Y	6			23	
+000023	EARN	3	1	across	Make $	Y	6			23	
+000023	OA	3	6	across	G__l keeper	N	11			23	
+000023	NRT	4	1	across	Narita airport code	Y	19			23	
+000023	SIN	4	5	across	Crime	N	5			23	
+000023	TV	5	1	across	Idiot box	Y	9			23	
+000023	SER	5	4	across	U__ manual	N	10			23	
+000023	LATTE	6	1	across	<i>	Y	3	Image of a latte with latte art on top		23	
+000023	G	6	7	across	Good	N	4			23	
+000023	E	7	1	across	Empire	Y	6			23	
+000023	ARMOR	7	3	across	Knight outfit	N	13			23	
+000023	MALE	8	1	across	<i>	Y	3	Image of a male washroom silhouette		23	
+000023	VA	8	6	across	Virginia	N	8			23	
+000023	ALLEGED	9	1	across	Supposed or presumed	Y	20			23	
+000023	NU	10	1	across	Not updated	Y	11			23	
+000023	TUNE	10	4	across	Hummed melody	Y	13			23	
+000023	GENTLEMAN	1	2	down	Ladies' counterpart	Y	19			23	
+000023	LARVA	1	3	down	Baby bug	Y	8			23	
+000023	ALU	7	3	down	CPU math part	N	13			23	
+000023	ORT	1	4	down	USB p__	Y	7			23	
+000023	TALL	5	4	down	Not short	N	9			23	
+000023	WN	1	5	down	<i>	Y	3	Image of a arrow pointing downward	Text on the right of the image: Do__	23	
+000023	STREET	4	5	down	Sesame __	N	9			23	
+000023	I	1	6	down	Independent	Y	11			23	
+000023	SEEM	3	6	down	Appear to	N	9			23	
+000023	GU	8	6	down	Grand Union	N	11			23	
+000023	NOIR	1	7	down	Neo __	Y	6			23	
+000023	OVEN	6	7	down	Baker's aid	N	11			23	
+000023	GAN	1	8	down	Ele__t	Y	6			23	
+000023	GRADE	5	8	down	<i>	Y	3	Image of a graded exam sheet with an arror pointing to the grade on the top right		23	
+000024	BATHTUB	2	1	across	<i>	Y	3	Image of a bathtub		24	
+000024	AREA	3	1	across	Length x breadth	Y	16			24	
+000024	NU	3	6	across	Neutron unit	N	12			24	
+000024	L	4	1	across	Liter	Y	5			24	
+000024	APRIL	4	3	across	__ fools	N	8			24	
+000024	LAMP	5	1	across	<i>	Y	3	Image of a lamp		24	
+000024	QL	5	6	across	MyS__	N	5			24	y
+000024	IE	6	1	across	Import-Export	Y	13			24	
+000024	YSU	6	4	across	You see us	N	10			24	
+000024	SRY	7	1	across	Apology text	Y	12			24	
+000024	AEC	7	5	across	Gyn__ologist	N	12			24	y
+000024	TIDAL	8	1	across	__ wave	Y	7			24	
+000024	U	8	7	across	Uranium	N	7			24	
+000024	IA	9	1	across	International Airlines	Y	22			24	
+000024	BOUT	9	4	across	A__ us	N	6			24	
+000024	CLEANSE	10	1	across	Disinfect	Y	9			24	y
+000024	BALLISTIC	1	2	down	In motion	Y	9			24	y
+000024	AR	1	3	down	<i>	Y	3	Image of a square	Text under the image: Squ__e	24	
+000024	AERIAL	4	3	down	Sky view	N	8			24	
+000024	TEAM	1	4	down	Squad	Y	5			24	
+000024	YD	6	4	down	Yard	N	4			24	
+000024	E	9	4	down	Error	N	5			24	
+000024	HAPPY	1	5	down	<i>	Y	3	Emoji of a person smiling		24	
+000024	ABA	7	5	down	__cus	N	5			24	y
+000024	T	1	6	down	<i>	Y	3	Image of a t-shirt		24	
+000024	R	3	6	down	Radius 	N	7			24	
+000024	SALON	5	6	down	Parlor	N	6			24	
+000024	UNIQUE	1	7	down	Rare	Y	4			24	
+000024	US	8	7	down	United States	N	13			24	
+000024	BULL	1	8	down	Rodeo star	Y	10			24	
+000024	CUTE	6	8	down	Adorable	Y	8			24	
+000025	ASTOUND	2	1	across	Blow away	Y	9			25	
+000025	LINE	3	1	across	<i>	Y	3	Image of a line		25	
+000025	OR	3	6	across	This __ that	N	12			25	
+000025	LGS	4	1	across	Learning Game Software	Y	22			25	
+000025	SSS	4	5	across	Sizzling sound	N	14			25	
+000025	OM	5	1	across	Chant	Y	5			25	
+000025	STE	5	4	across	Toa__r	N	6			25	
+000025	WASTE	6	1	across	Trash	Y	5			25	
+000025	V	6	7	across	Versus	N	6			25	
+000025	A	7	1	across	Adult	Y	5			25	
+000025	LIMBO	7	3	across	Uncertainty	N	11			25	
+000025	NEAT	8	1	across	Clean look	Y	10			25	
+000025	IW	8	6	across	Infinity War	N	12			25	
+000025	CUPCAKE	9	1	across	<i>	Y	3	Image of a cupcake		25	
+000025	EX	10	1	across	Past partner	Y	12			25	
+000025	HEEL	10	4	across	<i>	Y	3	Image of one of a pair of heels with an arrow pointing to the heel		25	
+000025	ALLOWANCE	1	2	down	Pocket money	Y	12			25	
+000025	SIGMA	1	3	down	<i>	Y	3	Image of the greek letter sigma		25	
+000025	EUX	7	3	down	End User Exp	N	12			25	
+000025	TNS	1	4	down	Tactical Nav Sys	Y	16			25	
+000025	SLAP	5	4	down	Face hit	N	8			25	
+000025	OE	1	5	down	Optical engine	Y	14			25	
+000025	STITCH	4	5	down	Sew	N	3			25	
+000025	U	1	6	down	Unitary	Y	7			25	
+000025	STEM	3	6	down	Plant part	N	10			25	
+000025	AE	8	6	down	Atomic energy	N	13			25	
+000025	NOSE	1	7	down	<i>	Y	3	Image of a nose		25	
+000025	BIKE	6	7	down	Two wheeler	N	11			25	
+000025	DRS	1	8	down	<i>	Y	3	Image of a doctor in scrubs and a coat		25	
+000025	VOWEL	5	8	down	A, E, I, O, U	Y	13			25	
+000026	ANATOMY	2	1	across	Study of the body	Y	17			26	
+000026	NODE	3	1	across	Lymph __	Y	8			26	
+000026	UO	3	6	across	Q__te	N	5			26	
+000026	CBS	4	1	across	TV network	Y	10			26	
+000026	BLU	4	5	across	__-ray disc	N	11			26	
+000026	EL	5	1	across	<i>	Y	3	Image of a metal being welded	W__d	26	
+000026	RAE	5	4	across	Norma __	N	8			26	
+000026	SEDAN	6	1	across	Family car	Y	10			26	
+000026	T	6	7	across	After S	N	7			26	
+000026	T	7	1	across	Tornado	Y	7			26	
+000026	ANKLE	7	3	across	Foot part	N	9			26	
+000026	RISK	8	1	across	Danger	Y	6			26	
+000026	ON	8	6	across	Old Navy	N	8			26	
+000026	ATHEIST	9	1	across	Non-believer	Y	12			26	
+000026	LS	10	1	across	Levi Strauss	Y	12			26	
+000026	DISH	10	4	across	<i>	Y	3	Image of a satellite dish		26	
+000026	ANCESTRAL	1	2	down	Hereditary	Y	10			26	
+000026	NOBLE	1	3	down	Aristocratic	Y	12			26	
+000026	ITS	7	3	down	I of TGIF	N	9			26	
+000026	ADS	1	4	down	Commercials	Y	11			26	
+000026	DASH	5	4	down	Morse code bit	N	14			26	
+000026	TE	1	5	down	<i>	Y	3	Image of a tent	__nt	26	
+000026	RANKED	4	5	down	Graded	N	6			26	
+000026	O	1	6	down	Opportunity	Y	11			26	
+000026	BANK	3	6	down	River edge	N	10			26	
+000026	II	8	6	down	Two, in Rome	N	12			26	
+000026	MULE	1	7	down	<i>	Y	3	Image of a mule		26	
+000026	LOSS	6	7	down	Not a gain	N	10			26	
+000026	YOU	1	8	down	Not me	Y	6			26	
+000026	TENTH	5	8	down	Ninth follower	Y	14			26	
+000027	PERFUME	2	1	across	<i>	Y	3	Image of a bottle of perfume		27	
+000027	RUT	3	1	across	Routine	Y	7			27	
+000027	SEV	3	5	across	__enth	N	6			27	
+000027	OR	4	1	across	Either's partner	Y	16			27	
+000027	CEDE	4	4	across	Give up	N	7			27	
+000027	COMA	5	1	across	Unconscious state	Y	17			27	
+000027	IR	5	6	across	Indian railway	N	14			27	
+000027	E	6	1	across	Elephant	Y	8			27	
+000027	ARRAY	6	3	across	Collection	N	10			27	
+000027	SCREEN	7	1	across	<i>	Y	3	Image of a TV screen 		27	
+000027	SLEEP	8	1	across	<i>	Y	3	Image of a sleeping emoji		27	
+000027	S	8	7	across	Summary	N	7			27	
+000027	EA	9	1	across	<i>	Y	3	Image of a speaker	Text under the image: Sp__ker	27	
+000027	REAL	9	4	across	Genuine	N	7			27	
+000027	DMZ	10	1	across	Demilitarized zone	Y	18			27	
+000027	LAY	10	5	across	Install, as carpeting	Y	21			27	
+000027	PROCESSED	1	2	down	Refined	Y	7			27	
+000027	EURO	1	3	down	<i>	Y	3	Image of a euro bill		27	
+000027	CLAM	6	3	down	Seafood option	N	14			27	
+000027	RT	1	4	down	Right	Y	5			27	
+000027	MARE	4	4	down	Foal's mother	N	13			27	
+000027	Z	9	4	down	Zed or zee	N	10			27	
+000027	F	1	5	down	Fahrenheit	Y	10			27	
+000027	CAREER	3	5	down	Job	N	3			27	
+000027	USE	1	6	down	Employ	Y	6			27	
+000027	REPEL	5	6	down	Ward off	N	8			27	
+000027	MEDIAN	1	7	down	Mean, __, mode	Y	14			27	
+000027	AA	8	7	down	Ann Arbor	N	9			27	
+000027	EVERY	1	8	down	Leaving none	Y	12			27	
+000027	SLY	7	8	down	Fox-like	Y	8			27	
+000028	TANGLED	2	1	across	Disney film	Y	11			28	
+000028	HUT	3	1	across	<i>	Y	3	Image of a hut		28	
+000028	UNE	3	5	across	French one	N	10			28	
+000028	ER	4	1	across	Emergency Room	Y	14			28	
+000028	MITT	4	4	across	Baseball glove	N	14			28	
+000028	RACE	5	1	across	<i>	Y	3	Image of a race track with two athletes running, one behind the other		28	
+000028	RE	5	6	across	__re	N	4			28	
+000028	A	6	1	across	First letter	Y	12			28	
+000028	AMBER	6	3	across	Resin	N	5			28	
+000028	PAROLE	7	1	across	Early exit	Y	10			28	
+000028	INDIE	8	1	across	Artsy	Y	5			28	
+000028	O	8	7	across	Hoop shape	N	10			28	
+000028	ST	9	1	across	<i>	Y	3	Image of a staircase	Text under the image: __airs	28	
+000028	REAR	9	4	across	Back end	N	8			28	
+000028	TIT	10	1	across	__ for tat	Y	10			28	
+000028	DAR	10	5	across	__ling	Y	6			28	
+000028	THERAPIST	1	2	down	Shrink	Y	6			28	
+000028	AURA	1	3	down	Surrounding radiance	Y	20			28	
+000028	ANTI	6	3	down	Against	N	7			28	
+000028	NT	1	4	down	<i>	Y	3	Image of an ant	Text under the image: __t	28	
+000028	CARD	4	4	down	Deck item	N	9			28	
+000028	T	9	4	down	Transistor	N	10			28	
+000028	G	1	5	down	Grand 	Y	6			28	
+000028	MEMOIR	3	5	down	Life tale	N	9			28	
+000028	LUI	1	6	down	B__sh-green	Y	11			28	
+000028	BLEED	5	6	down	Lose blood	N	10			28	
+000028	ENTREE	1	7	down	Main course	Y	11			28	
+000028	AA	8	7	down	Amino Acid	N	10			28	
+000028	DETER	1	8	down	Frighten off	Y	12			28	
+000028	ORR	7	8	down	Hockey's Bobby	Y	14			28	
+000029	DEPRESS	2	1	across	Make sad	Y	8			29	
+000029	ICY	3	1	across	Very cold	Y	9			29	
+000029	BAT	3	5	across	Baseball equipment	N	18			29	
+000029	SH	4	1	across	<i>	Y	3	Image of a sheep	Text under the image: __eep	29	
+000029	ABLE	4	4	across	Capable	N	7			29	
+000029	COMP	5	1	across	<i>	Y	3	Image of a computer	Text under the image: __puter	29	
+000029	MR	5	6	across	Mister	N	6			29	
+000029	O	6	1	across	October	Y	7			29	
+000029	APRON	6	3	across	Chef's wear	N	11			29	
+000029	UNSEEN	7	1	across	Hidden	Y	6			29	
+000029	REHAB	8	1	across	__ center	Y	9			29	
+000029	I	8	7	across	Information	N	11			29	
+000029	SX	9	1	across	<i>	Y	3	Image of six bowling pins	Text under the image: _i_	29	
+000029	RENT	9	4	across	Lease	N	5			29	
+000029	ETC	10	1	across	Et cetera	Y	9			29	
+000029	LAN	10	5	across	Local network	Y	13			29	
+000029	DISCOURSE	1	2	down	Talk	Y	4			29	
+000029	ECHO	1	3	down	Reverb	Y	6			29	
+000029	NEXT	6	3	down	Coming up	N	9			29	
+000029	PY	1	4	down	<i>	Y	3	Image of a vintage floppy disk	Text under the image: Flop__ disk	29	
+000029	MASH	4	4	down	Crush	N	5			29	
+000029	C	9	4	down	Carbon	N	6			29	
+000029	R	1	5	down	Revolution	Y	10			29	
+000029	APPEAR	3	5	down	Emerge	N	6			29	
+000029	EBB	1	6	down	Flow back	Y	9			29	
+000029	REBEL	5	6	down	Disobedient	N	11			29	
+000029	SALMON	1	7	down	<i>	Y	3	Image of a salmon-colored dress	Text under the image: __ color	29	
+000029	NA	8	7	down	Not applicable	N	14			29	
+000029	STERN	1	8	down	Ship's aft	Y	10			29	
+000029	ITN	7	8	down	International	Y	13			29	
+000030	CARDIAC	2	1	across	Heart-related	Y	13			30	
+000030	RULE	3	1	across	King's edict	Y	12			30	
+000030	NU	3	6	across	Numerical Unit	N	14			30	
+000030	OD	4	1	across	Optical Density	Y	15			30	
+000030	NEST	4	4	across	Bird's home	N	11			30	
+000030	SIFT	5	1	across	<i>	Y	3	Image of a hand-held sand sifter with sieve	Text under the image: __er	30	
+000030	WE	5	6	across	You and I	N	9			30	
+000030	SOLACE	6	1	across	Find peace	Y	10			30	
+000030	O	7	1	across	Gn_me	Y	5			30	
+000030	ALARM	7	3	across	Alert	N	5			30	
+000030	VAR	8	1	across	__nish	Y	6			30	
+000030	TIA	8	5	across	Spanish aunt	N	12			30	
+000030	ELEMENT	9	1	across	Periodic-table entry	Y	20			30	
+000030	RY	10	1	across	<i>	Y	3	Image of a berry	text under the image: Ber__	30	
+000030	URGE	10	4	across	Push	Y	4			30	
+000030	CROSSOVER	1	2	down	Genre mix	Y	9			30	
+000030	AUDIO	1	3	down	<i>	Y	3	Image of the audio symbol		30	
+000030	ALY	7	3	down	An__ze	N	6			30	
+000030	RL	1	4	down	<i>	Y	3	Image of a girl	Gi__	30	
+000030	FLARE	4	4	down	Solar burst	N	11			30	
+000030	DENTAL	1	5	down	Oral care	Y	9			30	
+000030	MU	8	5	down	Memory Unit	N	11			30	
+000030	I	1	6	down	Instantaneous	Y	13			30	
+000030	E	3	6	down	Earth	N	5			30	
+000030	CATER	5	6	down	Food prep	N	9			30	
+000030	ANSWERING	1	7	down	Phone call	Y	10			30	
+000030	CUTE	1	8	down	Baby-faced	Y	10			30	
+000030	MATE	6	8	down	Pal	Y	3			30	
+000031	PERSIST	2	1	across	Keep going	Y	10			31	
+000031	RANT	3	1	across	Tirade	Y	6			31	
+000031	KI	3	6	across	__wi	N	4			31	
+000031	EG	4	1	across	<i>	Y	3	Image of the omega symbol	Om__a	31	
+000031	USED	4	4	across	Not new	N	7			31	
+000031	DEAD	5	1	across	Flat battery	Y	12			31	
+000031	PY	5	6	across	Snap__	N	6			31	
+000031	ARTIST	6	1	across	<i>	Y	3	Image of a person painting		31	
+000031	T	7	1	across	Theory	Y	6			31	
+000031	TOPIC	7	3	across	Theme	N	5			31	
+000031	ORI	8	1	across	Sc__ng	Y	6			31	
+000031	ICE	8	5	across	Tr__ps	N	6			31	
+000031	RECITAL	9	1	across	Piano gig	Y	9			31	
+000031	YY	10	1	across	Yin and yang	Y	12			31	
+000031	WELL	10	4	across	<i>	Y	3	Image of a well		31	
+000031	PREDATORY	1	2	down	Lion-like	Y	9			31	
+000031	EAGER	1	3	down	Keen	Y	4			31	
+000031	REY	7	3	down	Lana Del __	N	11			31	
+000031	RN	1	4	down	<i>	Y	3	Image of a goat with an arrow pointing at the horns	Ho__s	31	
+000031	ATTIC	4	4	down	Loft	N	4			31	
+000031	STUDIO	1	5	down	Film Set	Y	8			31	
+000031	IW	8	5	down	Isle of Wight	N	13			31	
+000031	I	1	6	down	First person	Y	12			31	
+000031	S	3	6	down	Science	N	7			31	
+000031	SPITE	5	6	down	Ill will	N	8			31	
+000031	SKEPTICAL	1	7	down	Doubtful	Y	8			31	
+000031	TIDY	1	8	down	<i>	Y	3	Image of a very clean and tidy desk	Neat and __	31	
+000031	CELL	6	8	down	<i>	Y	3	Image of a cell phone	__phone	31	
+000032	IMPEACH	2	1	across	Charge	Y	6			32	
+000032	NY	3	1	across	New York	Y	8			32	
+000032	SURE	3	4	across	Trea__	N	6			32	
+000032	TAL	4	1	across	<i>	Y	3	Image of a bird's talon	__on	32	
+000032	NEA	4	5	across	Pi__pple	N	8			32	
+000032	E	5	1	across	Empire	Y	6			32	
+000032	ALTER	5	3	across	Modify	N	6			32	
+000032	RAVE	6	1	across	__n	Y	3			32	
+000032	PT	6	6	across	Pacific Time	N	12			32	
+000032	SLANG	7	1	across	Jargon	Y	6			32	
+000032	F	7	7	across	Feather	N	7			32	
+000032	EG	8	1	across	<i>	Y	3	Image of a table with an arrow pointing at the legs	L__s	32	
+000032	DIRE	8	4	across	__ction	N	7			32	
+000032	CAREFUL	9	1	across	Cautious	Y	8			32	
+000032	TEAR	10	1	across	Eye drop	Y	8			32	
+000032	GT	10	6	across	Georgia Tech	Y	12			32	
+000032	INTERSECT	1	2	down	Cut across	Y	10			32	
+000032	MYA	1	3	down	__nmar	Y	6			32	
+000032	ALGAE	5	3	down	Pond buildup	N	12			32	
+000032	P	1	4	down	Parade	Y	6			32	
+000032	LAVA	3	4	down	Volcano output	N	14			32	
+000032	RA	8	4	down	Right Angle	N	11			32	
+000032	ES	1	5	down	<i>	Y	3	Image of a jester	J__ter	32	
+000032	LENDER	4	5	down	Ca__	N	4			32	
+000032	AUNT	1	6	down	Mom's sis	Y	9			32	
+000032	GIF	6	6	down	__ted	N	5			32	
+000032	CREEP	1	7	down	<i>	Y	3	Image of a creeper plant	__er	32	
+000032	RUG	7	7	down	Bug in a __	N	11			32	
+000032	HEARTFELT	1	8	down	Sincere	Y	7			32	
+000033	CRUMBLE	2	1	across	Cookie mess	Y	11			33	
+000033	HA	3	1	across	Hyaluronic Acid	Y	15			33	
+000033	HOAX	3	4	across	Deception	N	9			33	
+000033	RIB	4	1	across	<i>	Y	3	Image of a rib cage 	__ cage	33	
+000033	OST	4	5	across	Fr__ing	N	7			33	
+000033	I	5	1	across	Island	Y	6			33	
+000033	EATER	5	3	across	Picky __	N	8			33	
+000033	STAR	6	1	across	<i>	Y	3	Image of a star		33	
+000033	RE	6	6	across	Real Estate	N	11			33	
+000033	THUMP	7	1	across	Drum sound	Y	10			33	
+000033	M	7	7	across	Mermaid	N	7			33	
+000033	ME	8	1	across	Pronoun for self	Y	16			33	
+000033	POLE	8	4	across	North __	N	8			33	
+000033	ARRIVAL	9	1	across	A of ETA	Y	8			33	
+000033	SEAT	10	1	across	<i>	Y	3	Image of a seat, like in a bus		33	
+000033	DY	10	6	across	Trage__	Y	7			33	
+000033	CHRISTMAS	1	2	down	<i>	Y	3	Image of a christmas tree	Merry __	33	
+000033	RAI	1	3	down	T__n	Y	4			33	
+000033	THERE	5	3	down	Not here	N	8			33	
+000033	U	1	4	down	Unicorn	Y	7			33	
+000033	BEAU	3	4	down	Male admirer	N	12			33	
+000033	RA	8	4	down	Airc__ft	N	8			33	
+000033	MH	1	5	down	Marketing Head	Y	14			33	
+000033	ARMPIT	4	5	down	Deodorant spot	N	14			33	
+000033	BOOT	1	6	down	<i>	Y	3	Image of a single boot		33	
+000033	POV	6	6	down	Point Of View	N	13			33	
+000033	LASER	1	7	down	__ tag	Y	6			33	
+000033	LAD	7	7	down	Scottish boy	N	12			33	
+000033	EXTREMELY	1	8	down	Very	Y	4			33	
+000034	SETTLER	2	1	across	Catan player	Y	12			34	y
+000034	THAI	3	1	across	SE Asian country	Y	16			34	
+000034	NU	3	6	across	Me__	N	4			34	
+000034	A	4	1	across	Association	Y	11			34	
+000034	PRESS	4	3	across	Squeeze	N	7			34	
+000034	TREE	5	1	across	<i>	Y	3	Image of a tree		34	
+000034	UT	5	6	across	__ah, USA	N	9			34	
+000034	IA	6	1	across	Internal Audit	Y	14			34	
+000034	DSR	6	4	across	Data Set Ready	N	14			34	
+000034	STY	7	1	across	Pig home	Y	8			34	
+000034	PED	7	5	across	Stri__	N	6			34	y
+000034	THOSE	8	1	across	Not this	Y	8			34	
+000034	IE	9	1	across	<i>	Y	3	Image of the internet Explorer logo		34	
+000034	U	8	7	across	You, in text	N	12			34	
+000034	EARN	9	4	across	Make money	N	10			34	
+000034	CRACKLE	10	1	across	Frizzle	Y	7			34	y
+000034	STATISTIC	1	2	down	<i>	Y	3	Image of a graph	Text on the right of the image: __s	34	y
+000034	EH	1	3	down	B__ave	Y	6			34	
+000034	RATHER	4	3	down	Instead	N	7			34	
+000034	TAPE	1	4	down	<i>	Y	3	Image of a roll of tape		34	
+000034	YO	6	4	down	Hi there!	N	9			34	
+000034	A	9	4	down	_BCD	N	4			34	
+000034	TIRED	1	5	down	Fatigued	Y	8			34	y
+000034	SEC	7	5	down	Minute part	N	11			34	
+000034	L	1	6	down	<i>	Y	3	Image of an apple	Text under the image: App_e	34	
+000034	E	3	6	down	Energy	N	6			34	
+000034	SPEAK	5	6	down	Talk	N	4			34	
+000034	ENSURE	1	7	down	Guarantee	Y	9			34	y
+000034	RL	8	7	down	__ Stine	N	8			34	
+000034	RUST	1	8	down	Corrode	Y	7			34	
+000034	DUNE	6	8	down	<i>	Y	3	Image of a sand dune	Text on the left of the image: Sand __	34	
+000035	BRITTLE	2	1	across	Easily broken	Y	13			35	
+000035	OO	3	1	across	Mushr__m	Y	8			35	
+000035	DUAL	3	4	across	Double	N	6			35	
+000035	RYU	4	1	across	Street Fighter icon	Y	19			35	
+000035	RTE	4	5	across	Ready-To-Eat	N	12			35	
+000035	R	5	1	across	Radiance	Y	8			35	
+000035	SONIC	5	3	across	Sega hedgehog	N	13			35	
+000035	OVEN	6	1	across	<i>	Y	3	Image of an oven		35	
+000035	NT	6	6	across	No Thanks	N	9			35	
+000035	WORLD	7	1	across	<i>	Y	3	Image of a world map	__ map	35	
+000035	R	7	7	across	After Q	N	7			35	
+000035	IG	8	1	across	Immunoglobulin	Y	14			35	
+000035	INFO	8	4	across	T__il	N	5			35	
+000035	NUANCED	9	1	across	Carefully worded	Y	16			35	
+000035	GENE	10	1	across	<i>	Y	3	Image of a DNA structure diagram		35	
+000035	ZE	10	6	across	__bra	Y	5			35	
+000035	BORROWING	1	2	down	Taking a loan	Y	13			35	
+000035	ROY	1	3	down	Dest__	Y	6			35	
+000035	VOGUE	5	3	down	Elle rival	N	10			35	
+000035	I	1	4	down	Iceberg	Y	7			35	
+000035	USER	3	4	down	U in UX	N	7			35	
+000035	AN	8	4	down	Pl__et	N	6			35	
+000035	TD	1	5	down	Touchdown	Y	9			35	
+000035	ONLINE	4	5	down	Using Wi-Fi	N	11			35	
+000035	TURN	1	6	down	<i>	Y	3	Image of a roadsign depicting a right turn	Right __	35	
+000035	DNC	6	6	down	Do Not Copy	N	11			35	
+000035	LATIN	1	7	down	Ovid's language	Y	15			35	
+000035	FEZ	7	7	down	Tasseled hat	N	12			35	
+000035	ELECTRODE	1	8	down	Conductor in a battery	Y	22			35	
+000036	PHARAOH	2	1	across	<i>	Y	3	Image of an Egyptial Pharaoh		36	
+000036	ROLE	3	1	across	Actor's part	Y	12			36	
+000036	FE	3	6	across	Iron	N	4			36	
+000036	AN	4	1	across	Article	Y	7			36	
+000036	SAFE	4	4	across	Not risky	N	9			36	
+000036	COPE	5	1	across	Deal with	Y	9			36	
+000036	SL	5	6	across	Soft Light	N	10			36	
+000036	TRANCE	6	1	across	Dream state	Y	11			36	
+000036	I	7	1	across	Industry	Y	8			36	
+000036	STRAP	7	3	across	Bag part	N	8			36	
+000036	CAT	8	1	across	<i>	Y	3	Image of a cat		36	
+000036	USA	8	5	across	Mexico's neighbor	N	17			36	
+000036	ABANDON	9	1	across	Forsake	Y	7			36	
+000036	LS	10	1	across	Light Source	Y	12			36	
+000036	CENT	10	4	across	<i>	Y	3	Image of a US penny or one cent coin		36	
+000036	PRACTICAL	1	2	down	Hands-on	Y	8			36	
+000036	HONOR	1	3	down	Respect	Y	7			36	
+000036	ABS	7	3	down	Crunch muscles	N	14			36	
+000036	AL	1	4	down	__ Pacino	Y	9			36	
+000036	PASTA	4	4	down	Spaghetti dish	N	14			36	
+000036	RESENT	1	5	down	Hold grudge	Y	11			36	
+000036	NC	8	5	down	North Carolina	N	14			36	
+000036	A	1	6	down	Average	Y	7			36	
+000036	A	3	6	down	Lo_the	N	6			36	
+000036	CRUDE	5	6	down	Not refined	N	11			36	
+000036	OFFSEASON	1	7	down	Downtime	Y	8			36	
+000036	HEEL	1	8	down	<i>	Y	3	Image of a foot with an arrow pointing at the heel		36	
+000036	PANT	6	8	down	<i>	Y	3	Image of a pair of pants		36	
+000037	ANGULAR	2	1	across	<i>	Y	3	Image of angular brackets	__ brackets	37	
+000037	TV	3	1	across	<i>	Y	3	Image of a TV set		37	
+000037	RISE	3	4	across	__ and shine	N	12			37	
+000037	TAS	4	1	across	__sel	Y	5			37	
+000037	VII	4	5	across	Seven in Rome	N	13			37	
+000037	E	5	1	across	Eclipse	Y	7			37	
+000037	OCEAN	5	3	across	Mermaid's home	N	14			37	
+000037	MEAL	6	1	across	<i>	Y	3	Image of an oatmeal dish	Oat__	37	
+000037	NF	6	6	across	Non-Fiction	N	11			37	
+000037	PAPAL	7	1	across	Vatican-related	Y	15			37	
+000037	O	7	7	across	Orbit	N	5			37	
+000037	TG	8	1	across	Ou__row	Y	7			37	
+000037	SOUR	8	4	across	Sweet and __	N	12			37	
+000037	ELASTIC	9	1	across	Stretchy	Y	8			37	
+000037	DENY	10	1	across	Say it’s not true	Y	17			37	
+000037	CE	10	6	across	<i>	Y	3	Image of a glass of juice	Jui__	37	
+000037	ATTEMPTED	1	2	down	Tried	Y	5			37	
+000037	NVA	1	3	down	No Visitors Allowed	Y	19			37	
+000037	EAGLE	5	3	down	America's bird	N	14			37	
+000037	G	1	4	down	After F	Y	7			37	
+000037	SOAP	3	4	down	Bar for a bath	N	14			37	
+000037	AN	8	4	down	__ apple a day	N	14			37	
+000037	UR	1	5	down	<i>	Y	3	Image of a church from the outside	Ch__ch	37	
+000037	CLASSY	4	5	down	Elegant	N	7			37	
+000037	LIVE	1	6	down	Saturday Night __	Y	17			37	
+000037	LOT	6	6	down	Parking area	N	12			37	
+000037	ASIAN	1	7	down	Indian or Indonesian	Y	20			37	
+000037	UIC	7	7	down	Q__k	N	4			37	
+000037	REINFORCE	1	8	down	Strengthen	Y	10			37	
+000038	PRIVACY	2	1	across	Confidentiality	Y	15			38	
+000038	RIZ	3	1	across	<i>	Y	3	Image of a girl holding a trophy	Text under the image: P__e	38	
+000038	WOU	3	5	across	Web Opts Unit	N	13			38	
+000038	OC	4	1	across	Of course	Y	9			38	
+000038	SLUM	4	4	across	Shanty area	N	11			38	y
+000038	THRU	5	1	across	Drive __	Y	8			38	y
+000038	GM	5	6	across	Good morning	N	12			38	
+000038	E	6	1	across	<i>	Y	3	Image of a drone	Text under the image: Dron_	38	
+000038	ARRAY	6	3	across	Range	N	5			38	
+000038	CONFER	7	1	across	Award	Y	5			38	y
+000038	TOKEN	8	1	across	Game piece	Y	10			38	
+000038	X	8	7	across	Graph axis	N	10			38	
+000038	EP	9	1	across	Emergency Plan	Y	14			38	
+000038	READ	9	4	across	Scan a code	N	11			38	
+000038	DSW	10	1	across	Data storage warehouse	Y	22			38	
+000038	WAR	10	5	across	Conflict	Y	8			38	
+000038	PROTECTED	1	2	down	Safe	Y	4			38	y
+000038	RICH	1	3	down	<i>	Y	3	Image of a man holding a lot of money		38	
+000038	OOPS	6	3	down	My bad	N	6			38	
+000038	IZ	1	4	down	<i>	Y	3	Image of a lizard	Text under the image: L__ard	38	
+000038	RANK	4	4	down	Standing	N	8			38	
+000038	W	9	4	down	Width	N	5			38	
+000038	V	1	5	down	<i>	Y	3	Image of a V-neck top	Text under the image: _-neck	38	
+000038	SURFER	3	5	down	Wave fan	N	8			38	y
+000038	AWL	1	6	down	Punch tool	Y	10			38	
+000038	RENEW	5	6	down	Update	N	6			38	
+000038	COUGAR	1	7	down	<i>	Y	3	Image of a cougar		38	
+000038	AA	8	7	down	Associate Analyst	N	17			38	
+000038	YUMMY	1	8	down	Mmm ...	Y	7			38	
+000038	XDR	7	8	down	Extreme Data Rate	Y	17			38	y
+000039	COMPASS	2	1	across	<i>	Y	3	Image of a compass		39	
+000039	ODOR	3	1	across	Smell	Y	5			39	
+000039	AT	3	6	across	@	N	1			39	
+000039	N	4	1	across	No	Y	2			39	
+000039	AISLE	4	3	across	Path	N	4			39	y
+000039	SYNC	5	1	across	<i>	Y	3	Image of a music note	Text on the left of the image: N __ 	39	
+000039	IW	5	6	across	Internal Wire	N	13			39	
+000039	EA	6	1	across	Electronic Arts	Y	15			39	
+000039	ESV	6	4	across	Stat__ille, NC	N	14			39	y
+000039	NNW	7	1	across	North North West	Y	16			39	
+000039	CAW	7	5	across	Crow call	N	9			39	
+000039	SKATE	8	1	across	<i>	Y	3	Image of a single ice skate	Text on the left of the image: Ice __ 	39	
+000039	UE	9	1	across	Cl__	Y	4			39	
+000039	A	8	7	across	_ for Apple	N	11			39	
+000039	ANTI	9	4	across	Oppose	N	6			39	
+000039	SEGMENT	10	1	across	Part of	Y	7			39	
+000039	CONSENSUS	1	2	down	Concordance	Y	11			39	y
+000039	OD	1	3	down	Once daily	Y	10			39	
+000039	YANKEE	4	3	down	NATO Y	N	6			39	y
+000039	MOAN	1	4	down	Soft cry	Y	8			39	
+000039	WA	6	4	down	Seattle state	N	13			39	
+000039	PRICE	1	5	down	<i>	Y	3	Image of a price tag with $$ on it		39	
+000039	TAM	7	5	down	__ o'shanter	N	12			39	
+000039	G	9	4	down	Generation	N	10			39	
+000039	SCENE	5	6	down	Site	N	4			39	
+000039	SALIVA	1	7	down	Drool	Y	5			39	y
+000039	TN	8	7	down	Tennessee	N	9			39	
+000039	A	1	6	down	Analytics	Y	9			39	
+000039	S	3	6	down	Road curve	N	10			39	
+000039	STEW	1	8	down	Soup	Y	4			39	
+000039	WAIT	6	8	down	<i>	Y	3	Image of a hand held out indicating wait		39	
+000040	PARSLEY	2	1	across	<i>	Y	3	Image of a parsley bunch		40	
+000040	RUE	3	1	across	Regret	Y	6			40	
+000040	MAI	3	5	across	__ Tai	N	6			40	y
+000040	ER	4	1	across	<i>	Y	3	Image of a camera	Text under the image: Cam__a	40	
+000040	MARE	4	4	across	Female horse	N	12			40	
+000040	CARE	5	1	across	Worry	Y	5			40	
+000040	NL	5	6	across	Next Level	N	10			40	
+000040	U	6	1	across	_-turn	Y	6			40	
+000040	ARMED	6	3	across	Equipped	N	8			40	
+000040	RAGGED	7	1	across	Worn out	Y	8			40	y
+000040	SHEET	8	1	across	<i>	Y	3	Image of a sheet of paper		40	
+000040	A	8	7	across	Before B	N	8			40	
+000040	OE	9	1	across	<i>	Y	3	Image of a canoe	Text under the image: Can__	40	
+000040	REAR	9	4	across	Back part	N	9			40	
+000040	RMY	10	1	across	Raw material yard	Y	17			40	y
+000040	REP	10	5	across	Reputation	Y	10			40	
+000040	PRECURSOR	1	2	down	Harbinger	Y	9			40	y
+000040	AURA	1	3	down	Mystic air	Y	10			40	
+000040	AHEM	6	3	down	Polite nudge	N	12			40	
+000040	RE	1	4	down	Sp__ad	Y	6			40	
+000040	RAGE	4	4	down	Fury	N	4			40	
+000040	Y	9	4	down	After X	N	7			40	
+000040	S	1	5	down	Service	Y	7			40	
+000040	MERGER	3	5	down	Fusion	N	6			40	y
+000040	LMA	1	6	down	Labor Market Analysis	Y	21			40	
+000040	METER	5	6	down	Gauge	N	5			40	
+000040	EARNED	1	7	down	Gained	Y	6			40	
+000040	AE	8	7	down	Annual Event	N	12			40	
+000040	YIELD	1	8	down	Produce	Y	7			40	y
+000040	ARP	7	8	down	<i>	Y	3	Image of a knife	Text under the image: Sh__	40	
+000041	EMPEROR	2	1	across	Largest penguin	Y	15			41	
+000041	ST	3	1	across	__reet	Y	6			41	
+000041	CAFE	3	4	across	Coffee spot	N	11			41	
+000041	TAD	4	1	across	__pole	Y	6			41	
+000041	SFC	4	5	across	San Francisco	N	13			41	
+000041	A	5	1	across	First letter	Y	12			41	
+000041	USHER	5	3	across	Theater guide	N	13			41	
+000041	BREW	6	1	across	<i>	Y	3	Image of a glass of cold brew coffee	Cold __	41	
+000041	RU	6	6	across	F__it	N	5			41	
+000041	LOSER	7	1	across	One who didn't win	Y	18			41	
+000041	I	7	7	across	Incognito	N	9			41	
+000041	ID	8	1	across	Identity Document	Y	17			41	
+000041	ROUT	8	4	across	Sp__	N	4			41	
+000041	SERVICE	9	1	across	Act of assistance	Y	17			41	
+000041	HOLE	10	1	across	<i>	Y	3	Image of a golf hole		41	
+000041	SR	10	6	across	Street Racing	Y	13			41	
+000041	ESTABLISH	1	2	down	Set up	Y	6			41	
+000041	MTA	1	3	down	Meet The Author	Y	15			41	
+000041	RODEO	5	3	down	Cowboy contest	N	14			41	
+000041	P	1	4	down	Pigeon	Y	6			41	
+000041	DUES	3	4	down	Resi__	N	6			41	
+000041	RL	8	4	down	Retro Look	N	10			41	
+000041	EC	1	5	down	Mol__ule	Y	8			41	
+000041	SWERVE	4	5	down	Veer	N	4			41	
+000041	RASH	1	6	down	<i>	Y	3	Image of a kid scratching a rash on their hand		41	
+000041	ROI	6	6	down	He__ne	N	6			41	
+000041	OFFER	1	7	down	<i>	Y	3	Image of a store sign that says "50% OFF"		41	
+000041	UCS	7	7	down	Unit Cell Size	N	14			41	
+000041	RECRUITER	1	8	down	Hiring person	Y	13			41	
+000042	GLEE	3	1	across	Joy	Y	3			42	
+000042	AA	3	6	across	Battery size	N	12			42	
+000042	GEM	4	1	across	<i>	Y	3	Image of a gemstone like ruby		42	
+000042	SSA	4	5	across	SSN issuer	N	10			42	
+000042	RE	5	1	across	Pride and P__judice	Y	19			42	
+000042	SHE	5	4	across	Not he	N	6			42	
+000042	APPLE	6	1	across	<i>	Y	3	Image of an apple		42	
+000042	M	6	7	across	Minute	N	6			42	
+000042	V	7	1	across	Vanadium	Y	8			42	
+000042	AUDIO	7	3	across	A of AV	N	7			42	
+000042	AMID	8	1	across	In the midst of	Y	15			42	
+000042	TO	8	6	across	__mato	N	6			42	
+000042	TANGLED	9	1	across	<i>	Y	3	Image of tangled wires		42	
+000042	EZ	10	1	across	Electronic zone	Y	15			42	
+000042	EMMY	10	4	across	<i>	Y	3	Image of an emmy trophy		42	
+000042	AGGRAVATE	1	2	down	Make worse	Y	10			42	
+000042	SLEEP	1	3	down	<i>	Y	3	Image of a person in bed		42	
+000042	MAZ	7	3	down	A__ing Spiderman	N	16			42	
+000042	SEM	1	4	down	College period	Y	14			42	
+000042	PAIN	5	4	down	Ache	N	4			42	
+000042	UE	1	5	down	Crossword cl__	Y	14			42	
+000042	SLUDGE	4	5	down	Thick Mud	N	9			42	
+000042	R	1	6	down	Resistance	Y	10			42	
+000042	SHED	3	6	down	Tool hut	N	8			42	
+000042	LM	8	6	down	Light meter	N	11			42	
+000042	EASE	1	7	down	Calm	Y	4			42	
+000042	ITEM	6	7	down	List part	N	9			42	
+000042	DAA	1	8	down	Don't ask again	Y	15			42	
+000042	MOODY	5	8	down	Sulking	Y	7			42	
+000043	SCRATCH	2	1	across	Score with a coin	Y	17			43	
+000043	IRON	3	1	across	<i>	Y	3	Image of the iron man mask 	__ Man	43	
+000043	OO	3	6	across	Br__d	N	5			43	
+000043	MINERAL	4	1	across	__ Water	Y	8			43	
+000043	IS	5	1	across	Image Size 	Y	11			43	
+000043	WAS	5	4	across	__ she late?	N	12			43	
+000043	LIS	6	1	across	Lost In Space	Y	13			43	
+000043	DTS	6	5	across	Direct To Site	N	14			43	
+000043	ASPHALT	7	1	across	Paving material	Y	15			43	
+000043	R	8	1	across	Radiance	Y	8			43	
+000043	EERIE	8	3	across	Spooky	N	6			43	
+000043	LACE	9	1	across	<i>	Y	3	Image of lace fabric		43	
+000043	NE	9	6	across	New England	N	11			43	
+000043	YZ	10	1	across	Anal__e	Y	7			43	
+000043	DUEL	10	4	across	<i>	Y	3	Image of two people duelling		43	
+000043	SIMILARLY	1	2	down	Likewise	Y	8			43	
+000043	CRISIS	1	3	down	Dangerous situation	Y	19			43	
+000043	AZ	8	3	down	Absolute Zero	N	13			43	
+000043	RON	1	4	down	Harry Potter's friend	Y	21			43	
+000043	SPEC	5	4	down	In__tor	N	7			43	
+000043	ANEW	1	5	down	From square one	Y	15			43	
+000043	HEED	6	5	down	Obey	N	4			43	
+000043	T	1	6	down	Triumph	Y	7			43	
+000043	RADAR	3	6	down	Plane tracker	N	13			43	
+000043	U	9	6	down	Unity	N	5			43	
+000043	COASTLINE	1	7	down	<i>	Y	3	Image of the map of USA with a highlighted coastline		43	
+000043	HOL	1	8	down	Hands On Learning	Y	17			43	
+000043	STEEL	5	8	down	Stainless __	Y	12			43	
+000044	STICKER	2	1	across	<i>	Y	3	Image of a laptop with a sticker on it, with an arrow pointing to the sticker		44	
+000044	UZ	3	1	across	P__zle	Y	6			44	
+000044	RIPE	3	4	across	Juicy fruit	N	11			44	
+000044	REPEL	4	1	across	Drive off	Y	9			44	
+000044	Y	4	7	across	Yardstick 	N	10			44	
+000044	P	5	1	across	_interest app	Y	13			44	
+000044	HALF	5	3	across	50%	N	3			44	
+000044	RAFT	6	1	across	<i>	Y	3	Image of a raft		44	
+000044	UC	6	6	across	University code	N	15			44	
+000044	IV	7	1	across	Intravenous	Y	11			44	
+000044	UGLY	7	4	across	Hideous	N	7			44	
+000044	SCARE	8	1	across	Boo!	Y	4			44	
+000044	C	8	7	across	3rd in ABC	N	10			44	
+000044	E	9	1	across	Engineering	Y	11			44	
+000044	PERIL	9	3	across	In harm's way	N	13			44	
+000044	DZI	10	1	across	<i>	Y	3	Image of a dzi bead 	Text under the image: __ bead	44	
+000044	MWE	10	5	across	Milwaukee	Y	9			44	
+000044	SURPRISED	1	2	down	<i>	Y	3	Image of a surprised emoji face		44	
+000044	TZE	1	3	down	Total zero emission	Y	19			44	
+000044	AVC	5	3	down	Adv. video coding	N	17			44	
+000044	Z	9	3	down	Zinc	N	4			44	
+000044	I	1	4	down	Ink	Y	3			44	
+000044	PHF	3	4	down	Public health fund	N	18			44	
+000044	API	7	4	down	W__ti	N	5			44	
+000044	CREATURE	1	5	down	Living thing	Y	12			44	
+000044	KILL	1	6	down	Slay	Y	4			44	
+000044	GERM	6	6	down	Microbe	N	7			44	
+000044	EP	1	7	down	<i>	Y	3	Image of a cube figure with an arrow running along its depth	Text under the image: D__th	44	
+000044	FUL	4	7	down	Beauti__	N	8			44	
+000044	IW	8	7	down	D__an	N	5			44	
+000044	REY	1	8	down	Spanish king	Y	12			44	
+000044	CYCLE	5	8	down	<i>	Y	3	Image of a bicycle	Text under the image: Bi__	44	
+000045	ACADEMY	2	1	across	Place of study	Y	14			45	
+000045	LOSE	3	1	across	Not win	Y	7			45	
+000045	IU	3	6	across	Sod__m	N	6			45	
+000045	GRUMBLE	4	1	across	Complain	Y	8			45	
+000045	OP	5	1	across	<i>	Y	3	Image of a spinning top	T__	45	
+000045	ORE	5	4	across	Mine find	N	9			45	
+000045	RUB	6	1	across	Massage	Y	7			45	
+000045	OSS	6	5	across	One Stop Shop	N	13			45	
+000045	ISOLATE	7	1	across	Separate	Y	8			45	
+000045	T	8	1	across	<i>	Y	3	Image of a shopping cart	Car_	45	
+000045	WIDOW	8	3	across	Black __	N	8			45	
+000045	HELM	9	1	across	<i>	Y	3	Image of the helm of a ship		45	
+000045	NE	9	6	across	Not Evaluated	N	13			45	
+000045	MZ	10	1	across	Music Zone	Y	10			45	
+000045	PEER	10	4	across	Equal	Y	5			45	
+000045	ALGORITHM	1	2	down	Step-by-step process	Y	20			45	
+000045	CORPUS	1	3	down	__ Christi	Y	10			45	
+000045	EZ	8	3	down	Sque__e	N	7			45	
+000045	ASU	1	4	down	Sun Devils school	Y	17			45	
+000045	BOWL	5	4	down	Cereal dish	N	11			45	
+000045	DEMO	1	5	down	Test run	Y	8			45	
+000045	LIMP	6	5	down	Not firm	N	8			45	
+000045	E	1	6	down	After D	Y	7			45	
+000045	BROAD	3	6	down	Wide	N	4			45	
+000045	E	9	6	down	Ember	N	5			45	
+000045	MILESTONE	1	7	down	<i>	Y	3	Image of a milestone on the side of the road		45	
+000045	YUE	1	8	down	Cantonese	Y	9			45	
+000045	SEWER	5	8	down	Drain	Y	5			45	
+000046	PASSION	2	1	across	Zeal	Y	4			46	
+000046	RACK	3	1	across	<i>	Y	3	Image of a race track	T__	46	
+000046	AS	3	6	across	Like	N	4			46	
+000046	OPR	4	1	across	S__ano	Y	6			46	
+000046	ATA	4	5	across	F__l	N	4			46	
+000046	P	5	1	across	Parenthesis	Y	11			46	
+000046	ITCH	5	3	across	Scratch	N	7			46	
+000046	ALPHA	6	1	across	<i>	Y	3	Image of the Greek symbol alpha		46	
+000046	C	6	7	across	Category	N	8			46	
+000046	GATE	7	1	across	<i>	Y	3	Image of a large gate in front of a house		46	
+000046	TA	7	6	across	Teaching Asst	N	13			46	
+000046	AY	8	1	across	L__man	Y	6			46	
+000046	IMAM	8	4	across	Mosque cleric	N	13			46	
+000046	TERRACE	9	1	across	Outdoor spot	Y	12			46	
+000046	ERA	10	1	across	Time span	Y	9			46	
+000046	YOO	10	5	across	Hey you!	Y	8			46	
+000046	PROPAGATE	1	2	down	Spread	Y	6			46	
+000046	AAP	1	3	down	All about people	Y	16			46	
+000046	LAYER	5	3	down	Thin coat	N	9			46	
+000046	SCRIPT	1	4	down	Play text	Y	9			46	
+000046	RA	8	4	down	Right Atrium	N	12			46	
+000046	SK	1	5	down	<i>	Y	3	Image of a mask	Ma__	46	
+000046	THEIR	4	5	down	His and hers	N	12			46	
+000046	I	1	6	down	Me	Y	2			46	
+000046	ACA	3	6	down	Obamacare	N	9			46	
+000046	MAY	7	6	down	Spring month	N	12			46	
+000046	OATH	1	7	down	Promise	Y	7			46	
+000046	TACO	6	7	down	Folded food	N	11			46	
+000046	NSA	1	8	down	<i>	Y	3	Image of a bonsai plant	Bo__i plant	46	
+000046	CAMEO	5	8	down	Short role	Y	10			46	
+000047	ADMIRAL	2	1	across	Fleet Head	Y	10			47	
+000047	SOAR	3	1	across	Fly high	Y	8			47	
+000047	CI	3	6	across	Corporate Id.	N	13			47	
+000047	SST	4	1	across	Counterintelligence	Y	19			47	
+000047	ART	4	5	across	Painting	N	8			47	
+000047	I	5	1	across	Input	Y	5			47	
+000047	TALE	5	3	across	Short story	N	11			47	
+000047	SPELL	6	1	across	Magic chant	Y	11			47	
+000047	M	6	7	across	Manual	N	6			47	
+000047	TORT	7	1	across	<i>	Y	3	Image of a tortilla wrap	__illa wrap	47	
+000047	BO	7	6	across	Body Odor	N	9			47	
+000047	AL	8	1	across	<i>	Y	3	Image of a measuring scale	Sc__e	47	
+000047	AGED	8	4	across	Grew old	N	8			47	
+000047	NARRATE	9	1	across	Tell a story	Y	12			47	
+000047	TRA	10	1	across	__-la-la	Y	8			47	
+000047	PAM	10	5	across	The Office character	Y	20			47	
+000047	ASSISTANT	1	2	down	Alexa, e.g.	Y	11			47	
+000047	DOS	1	3	down	__age	Y	5			47	
+000047	POLAR	5	3	down	__ opposites	N	12			47	
+000047	MATTER	1	4	down	Be relevant	Y	11			47	
+000047	RA	8	4	down	Road Authority	N	14			47	
+000047	IR	1	5	down	<i>	Y	3	Image of a chair	Cha__	47	
+000047	ALTAR	4	5	down	Church area	N	11			47	
+000047	R	1	6	down	Regulation	Y	10			47	
+000047	ALL	3	6	down	Each one	N	8			47	
+000047	GAP	7	6	down	Space	N	5			47	
+000047	ACRE	1	7	down	43,560 sq.	Y	10			47	
+000047	BETA	6	7	down	Trial	N	5			47	
+000047	LIT	1	8	down	<i>	Y	3	Image of a burning matchstick		47	
+000047	MODEM	5	8	down	Internet device	Y	15			47	
+000048	HOTLINE	2	1	across	Help Line	Y	9			48	
+000048	YUAN	3	1	across	China cash	Y	10			48	
+000048	AP	3	6	across	Action Plan	N	11			48	
+000048	PIT	4	1	across	<i>	Y	3	Image of a half avacado, with an arrow pointing at the pit		48	
+000048	EMS	4	5	across	Tot__	N	5			48	
+000048	O	5	1	across	Outside	Y	7			48	
+000048	TUBE	5	3	across	Type of top	N	11			48	
+000048	CRONY	6	1	across	Old chum	Y	8			48	
+000048	S	6	7	across	Sequence	N	8			48	
+000048	ROOF	7	1	across	<i>	Y	3	Image of the roof of a house		48	
+000048	NL	7	6	across	Not linear	N	10			48	
+000048	IU	8	1	across	Gen__s	Y	6			48	
+000048	IDEA	8	4	across	Concept	N	7			48	
+000048	STATION	9	1	across	Train stop	Y	10			48	
+000048	YEA	10	1	across	Positive vote	Y	13			48	
+000048	ANT	10	5	across	Colony bug	Y	10			48	
+000048	HYPOCRISY	1	2	down	Two-faced act	Y	13			48	
+000048	OUI	1	3	down	French Yes	Y	10			48	
+000048	ROUTE	5	3	down	Path	N	4			48	
+000048	TATTOO	1	4	down	<i>	Y	3	Image of a flower tattoo on a wrist		48	
+000048	AA	8	4	down	Art Associate	N	13			48	
+000048	LN	1	5	down	Log base e	Y	10			48	
+000048	UNFIT	4	5	down	Not ready	N	9			48	
+000048	I	1	6	down	One	Y	3			48	
+000048	EBY	3	6	down	Ther__	N	6			48	
+000048	DIA	7	6	down	Spanish day	N	11			48	
+000048	NAME	1	7	down	Dog tag info	Y	12			48	
+000048	NEON	6	7	down	Gas in lights	N	13			48	
+000048	EPS	1	8	down	Short records	Y	13			48	
+000048	SLANT	5	8	down	<i>	Y	3	Image of a slant board	__ board	48	
+000049	ONBOARD	2	1	across	In agreement	Y	12			49	
+000049	BRAT	3	1	across	Naughty kid	Y	11			49	
+000049	UI	3	6	across	User interface	N	14			49	
+000049	SAM	4	1	across	Uncle __	Y	8			49	
+000049	MSS	4	5	across	Max segment size	N	16			49	
+000049	E	5	1	across	Endorsement	Y	11			49	
+000049	BLAH	5	3	across	Boring	N	6			49	
+000049	SCOOT	6	1	across	Make haste	Y	10			49	
+000049	W	6	7	across	Webpage	N	7			49	
+000049	SHOW	7	1	across	Exhibit	Y	7			49	
+000049	JE	7	6	across	French pronoun	N	14			49	
+000049	IE	8	1	across	<i>	Y	3	Image of an alien	Al__n	49	
+000049	LAUD	8	4	across	Applaud	N	7			49	
+000049	VARYING	9	1	across	Fluctuating	Y	11			49	
+000049	EPA	10	1	across	AQI monitor	Y	11			49	
+000049	TEE	10	5	across	<i>	Y	3	Image of a tshirt		49	
+000049	OBSESSIVE	1	2	down	Fixated	Y	7			49	
+000049	NRA	1	3	down	E__ge	Y	5			49	
+000049	CHEAP	5	3	down	Low-cost	N	8			49	
+000049	BAMBOO	1	4	down	<i>	Y	3	Image of a bamboo tree		49	
+000049	RA	8	4	down	Roundabout	N	10			49	
+000049	OT	1	5	down	<i>	Y	3	Image of a lotus	L__us	49	
+000049	LOWLY	4	5	down	Modest	N	6			49	
+000049	A	1	6	down	Altitude	Y	8			49	
+000049	MAT	3	6	down	Gym item	N	8			49	
+000049	AIT	7	6	down	River isle	N	10			49	
+000049	RUSH	1	7	down	Hurry	Y	5			49	
+000049	JUNE	6	7	down	After May	N	9			49	
+000049	DIS	1	8	down	Bad-mouth	Y	9			49	
+000049	WEDGE	5	8	down	<i>	Y	3	Image of a pair pf wedges	__s	49	
+000050	ESSENCE	2	1	across	Core	Y	4			50	
+000050	THEM	3	1	across	Not us	Y	6			50	
+000050	HV	3	6	across	High Voltage	N	12			50	
+000050	HOLIDAY	4	1	across	Vacation	Y	8			50	
+000050	IW	5	1	across	<i>	Y	3	Image of a kiwi fruit	K__i	50	
+000050	TAM	5	4	across	Scottish cap	N	12			50	
+000050	OEM	6	1	across	Overseas Export Market	Y	22			50	
+000050	TPS	6	5	across	Test Program Set	N	16			50	
+000050	PREHEAT	7	1	across	Warm up an oven	Y	15			50	
+000050	I	8	1	across	Infinity	Y	8			50	
+000050	LODGE	8	3	across	Small inn	N	9			50	
+000050	AUTO	9	1	across	Not manual	Y	10			50	
+000050	NE	9	6	across	New Edition	N	11			50	
+000050	NZ	10	1	across	Bro__e	Y	6			50	
+000050	KEEP	10	4	across	Not lose	Y	8			50	
+000050	ETHIOPIAN	1	2	down	Addis Ababa resident	Y	20			50	
+000050	SHOWER	1	3	down	<i>	Y	3	Image of a showerhead		50	
+000050	UZ	8	3	down	Ultra Zoom	N	10			50	
+000050	SEL	1	4	down	<i>	Y	3	Image of a chisel	Chi__	50	
+000050	MELT	5	4	down	Unfreeze	N	8			50	
+000050	EMIT	1	5	down	Radiate	Y	7			50	
+000050	HOOK	6	5	down	S__	N	3			50	
+000050	N	1	6	down	Nebula	Y	6			50	
+000050	DATED	3	6	down	Out of style	N	12			50	
+000050	E	9	6	down	Extinct	N	7			50	
+000050	CHAMPAGNE	1	7	down	<i>	Y	3	Image of a bottle of champagne		50	
+000050	EVY	1	8	down	L__	Y	3			50	
+000050	STEEP	5	8	down	Highly inclined	Y	15			50	
+000051	UPRIGHT	2	1	across	Stand tall	Y	10			51	
+000051	NONE	3	1	across	0%	Y	2			51	
+000051	EU	3	6	across	Europian Union	N	14			51	
+000051	DL	4	1	across	<i>	Y	3	Image of a boat's paddle	Pad__e	51	
+000051	PEAR	4	4	across	Juicy fruit	N	11			51	
+000051	EOC	5	1	across	Th__racy	Y	8			51	
+000051	ARF	5	5	across	Dog bark	N	8			51	
+000051	R	6	1	across	Realignment	Y	11			51	
+000051	LUST	6	3	across	One deadly sin	N	14			51	
+000051	TAUNT	7	1	across	Mock	Y	4			51	
+000051	S	7	7	across	Savings 	N	8			51	
+000051	AMBIENT	8	1	across	All around	Y	10			51	
+000051	KE	9	1	across	Kinetic Energy	Y	14			51	
+000051	TRIO	9	4	across	Set of 3	N	8			51	
+000051	ENVY	10	1	across	Green-eyed	Y	10			51	
+000051	XP	10	6	across	Experience Points	Y	17			51	
+000051	UNDERTAKE	1	2	down	Take on	Y	7			51	
+000051	POLO	1	3	down	<i>	Y	3	Image of a polo shirt	__ shirt	51	
+000051	AMEN	6	3	down	Prayer end	N	10			51	
+000051	RN	1	4	down	Royal Navy	Y	10			51	
+000051	CLUB	4	4	down	Group	N	5			51	
+000051	V	9	4	down	Validation	N	10			51	
+000051	IEP	1	5	down	Initial Entry Point	Y	19			51	
+000051	UNITY	5	5	down	Harmony	N	7			51	
+000051	G	1	6	down	Gesture	Y	7			51	
+000051	EASTER	3	6	down	Egg Hunt	N	8			51	
+000051	HEART	1	7	down	<i>	Y	3	Image of the heart organ		51	
+000051	NIX	7	7	down	Shoot down	N	10			51	
+000051	TURF	1	8	down	<i>	Y	3	Image of a golf turf		51	
+000051	STOP	6	8	down	Cease	Y	5			51	
+000052	CASCADE	2	1	across	<i>	Y	3	Image of falling dominoes		52	
+000052	ODOR	3	1	across	Stink	Y	5			52	
+000052	EX	3	6	across	External	N	8			52	
+000052	N	4	1	across	Notation	Y	8			52	
+000052	FALSE	4	3	across	Incorrect	N	9			52	
+000052	SCAM	5	1	across	Con trick	Y	9			52	
+000052	IC	5	6	across	Identity Card	N	13			52	
+000052	EE	6	1	across	Early Entry	Y	11			52	
+000052	PCR	6	4	across	Post-care report	N	16			52	
+000052	NME	7	1	across	Non-Metallic Element	Y	20			52	
+000052	REP	7	5	across	Gym unit	N	8			52	
+000052	SENSE	8	1	across	Impression	Y	10			52	
+000052	I	8	7	across	Identification	N	14			52	
+000052	UN	9	1	across	<i>	Y	3	Image of a basketball player slam dunking 	D__k	52	
+000052	ISLE	9	4	across	Island	N	6			52	
+000052	STUTTER	10	1	across	Speech hic	Y	10			52	
+000052	CONSENSUS	1	2	down	Agreement	Y	9			52	
+000052	AD	1	3	down	Advertisement	Y	13			52	
+000052	CEMENT	4	3	down	Concrete	N	8			52	
+000052	SOFA	1	4	down	<i>	Y	3	Image of a sofa		52	
+000052	EN	6	4	down	C__tury	N	7			52	
+000052	U	9	4	down	Universality	N	12			52	
+000052	CRAMP	1	5	down	Muscle woe	Y	10			52	
+000052	SIT	7	5	down	Plop down	N	9			52	
+000052	A	1	6	down	<i>	Y	3	Image of a cap	C_p	52	
+000052	L	3	6	down	Launch	N	6			52	
+000052	CREST	5	6	down	Peak	N	4			52	
+000052	DESIRE	1	7	down	Longing	Y	7			52	
+000052	LE	8	7	down	Id__	N	4			52	
+000052	EXEC	1	8	down	Business bigwig	Y	15			52	
+000052	PIER	6	8	down	<i>	Y	3	Image of a pier		52	
+000053	CORRECT	2	1	across	<i>	Y	3	Image of a green tick mark		53	
+000053	ROAM	3	1	across	Move about	Y	10			53	
+000053	RU	3	6	across	Round up	N	8			53	
+000053	OZ	4	1	across	Wizard of __	Y	12			53	
+000053	SCAN	4	4	across	Check	N	5			53	
+000053	SES	5	1	across	<i>	Y	3	Image of two horses	Hor__	53	
+000053	ONE	5	5	across	Top Spot	N	8			53	
+000053	S	6	1	across	Saturation	Y	10			53	
+000053	WINE	6	3	across	Red or white	N	12			53	
+000053	FAINT	7	1	across	Pass out	Y	8			53	
+000053	W	7	7	across	Warranty	N	8			53	
+000053	IMMERSE	8	1	across	Submerge	Y	8			53	
+000053	RI	9	1	across	Rhode Island	Y	12			53	
+000053	PAPA	9	4	across	Dad's nickname	N	14			53	
+000053	EDIT	10	1	across	Fix text	Y	8			53	
+000053	YR	10	6	across	12-month period	Y	15			53	
+000053	CROSSFIRE	1	2	down	Military danger	Y	15			53	
+000053	OOZE	1	3	down	Seep out	Y	8			53	
+000053	AMID	6	3	down	Among	N	5			53	
+000053	RA	1	4	down	<i>	Y	3	Image of a crab	C__b	53	
+000053	SWIM	4	4	down	Pool activity	N	13			53	
+000053	I	9	4	down	Roman one	N	9			53	
+000053	RMS	1	5	down	Royal Mail Ship	Y	15			53	
+000053	INEPT	5	5	down	Not good	N	8			53	
+000053	E	1	6	down	Ethics	Y	6			53	
+000053	CONTRA	3	6	down	Against	N	7			53	
+000053	CRANE	1	7	down	<i>	Y	3	Image of a crane bird		53	
+000053	SPY	7	7	down	James Bond	N	10			53	
+000053	TUNE	1	8	down	Melody	Y	6			53	
+000053	WEAR	6	8	down	Put on	Y	6			53	
+000054	ASHAMED	2	1	across	Guilty	Y	6			54	
+000054	COAL	3	1	across	<i>	Y	3	Image of a lump of coal		54	
+000054	XU	3	6	across	Ne__s	N	5			54	
+000054	C	4	1	across	Circuit	Y	7			54	
+000054	WINCE	4	3	across	Grimace	N	7			54	
+000054	LIKE	5	1	across	<i>	Y	3	Image of the facebook like button		54	
+000054	UT	5	6	across	User testing	N	12			54	
+000054	AN	6	1	across	Analog	Y	6			54	
+000054	NAS	6	4	across	Lil __ X	N	8			54	
+000054	ISM	7	1	across	Belief system	Y	13			54	
+000054	FEB	7	5	across	Shortest month	N	14			54	
+000054	MIDST	8	1	across	Center	Y	6			54	
+000054	O	8	7	across	Opinion	N	7			54	
+000054	ED	9	1	across	<i>	Y	3	Image of a sled	Sl__	54	
+000054	SEAL	9	4	across	Ocean pup	N	9			54	
+000054	DESIRED	10	1	across	Wanted	Y	6			54	
+000054	ACCLAIMED	1	2	down	Strongly praised	Y	16			54	
+000054	SO	1	3	down	Therefore	Y	9			54	
+000054	INSIDE	4	3	down	Not out	N	7			54	
+000054	HAWK	1	4	down	<i>	Y	3	Image of a hawk		54	
+000054	MD	6	4	down	Medical Degree	N	14			54	
+000054	S	9	4	down	Simulation	N	10			54	
+000054	ALIEN	1	5	down	<i>	Y	3	Image of an alien mask		54	
+000054	SSI	7	5	down	Small Scale Index	N	17			54	
+000054	M	1	6	down	Mechanism	Y	9			54	
+000054	N	3	6	down	Nominal	N	7			54	
+000054	AFTER	5	6	down	Next up	N	7			54	
+000054	EXCUSE	1	7	down	Alibi	Y	5			54	
+000054	AE	8	7	down	After Effects	N	13			54	
+000054	DUET	1	8	down	Pair	Y	4			54	
+000054	BOLD	6	8	down	Not shy	Y	7			54	
+000055	ANALYST	2	1	across	Data Pro	Y	8			55	
+000055	READ	3	1	across	Pore over	Y	9			55	
+000055	LI	3	6	across	__ft	N	4			55	
+000055	TW	4	1	across	Team work	Y	9			55	
+000055	SEEM	4	4	across	Appear	N	6			55	
+000055	HSS	5	1	across	High school subject	Y	19			55	
+000055	YEE	5	5	across	__-haw	N	6			55	
+000055	R	6	1	across	Rotation	Y	8			55	
+000055	TREK	6	3	across	Lengthy hike	N	12			55	
+000055	IDEAL	7	1	across	Flawless	Y	8			55	
+000055	U	7	7	across	Ultimate	N	8			55	
+000055	TOPPING	8	1	across	<i>	Y	3	Image of a pizza with circles marking the toppings		55	
+000055	IZ	9	1	across	Ma__e	Y	5			55	
+000055	IDOL	9	4	across	Hero	N	4			55	
+000055	SEND	10	1	across	<i>	Y	3	Image of a send button like on messaging apps		55	
+000055	VY	10	6	across	<i>	Y	3	Image of an ivy plant	I__	55	
+000055	ARTHRITIS	1	2	down	Joint problem	Y	13			55	
+000055	NEWS	1	3	down	Breaking info	Y	13			55	
+000055	DOZE	6	3	down	Light nap	N	9			55	
+000055	AA	1	4	down	Anti-Aging	Y	10			55	
+000055	STEP	4	4	down	Dance move	N	10			55	
+000055	N	9	4	down	Nitrogen	N	8			55	
+000055	LDS	1	5	down	Mormon letters	Y	14			55	
+000055	RAPID	5	5	down	Speedy	N	6			55	
+000055	Y	1	6	down	Yearbook	Y	8			55	
+000055	EYELID	3	6	down	Lens cover	N	10			55	
+000055	SLEEK	1	7	down	Smooth	Y	6			55	
+000055	NOV	7	7	down	Fall month	N	10			55	
+000055	TIME	1	8	down	<i>	Y	3	Image of an antique clock	__piece	55	
+000055	UGLY	6	8	down	Hostile	Y	7			55	
+000056	STOMACH	2	1	across	<i>	Y	3	Image of the human anatomy with an arrow pointing at the stomach		56	
+000056	UNDO	3	1	across	Ctrl+Z	Y	6			56	
+000056	OU	3	6	across	Optical Unit	N	12			56	
+000056	R	4	1	across	Recognition	Y	11			56	
+000056	DOZEN	4	3	across	Baker's 12	N	10			56	
+000056	PASS	5	1	across	Permit	Y	6			56	
+000056	RT	5	6	across	Retweet	N	7			56	
+000056	RR	6	1	across	<i>	Y	3	Image of a rabbit burrow	Bu__ow	56	
+000056	ESC	6	4	across	Escape	N	6			56	
+000056	IRK	7	1	across	Vex	Y	3			56	
+000056	HEM	7	5	across	Skirt end	N	9			56	
+000056	SINCE	8	1	across	From then	Y	9			56	
+000056	O	8	7	across	Outreach	N	8			56	
+000056	EV	9	1	across	Evolution	Y	9			56	
+000056	SELL	9	4	across	Trade	N	5			56	
+000056	DEVOTED	10	1	across	Very loyal	Y	10			56	
+000056	SURPRISED	1	2	down	<i>	Y	3	Image of a surprised emoji		56	
+000056	TN	1	3	down	Team Name	Y	9			56	
+000056	ARRIVE	4	3	down	End trip	N	8			56	
+000056	ODDS	1	4	down	Chances	Y	7			56	
+000056	KN	6	4	down	King’s Navy	N	11			56	
+000056	V	9	4	down	Roman five	N	10			56	
+000056	MOOSE	1	5	down	<i>	Y	3	Image of a moose		56	
+000056	CSO	7	5	down	Civil Society Org.	N	18			56	
+000056	A	1	6	down	Achievement	Y	11			56	
+000056	Z	3	6	down	Zoom	N	4			56	
+000056	SHEET	5	6	down	Closet item	N	11			56	
+000056	COERCE	1	7	down	Force	Y	5			56	
+000056	LE	8	7	down	Local Expert	N	12			56	
+000056	HUNT	1	8	down	Quest	Y	5			56	
+000056	MOLD	6	8	down	Icky growth	Y	11			56	
+000057	SELFISH	2	1	across	Greedy	Y	6			57	
+000057	POUR	3	1	across	Rain hard	Y	9			57	
+000057	TU	3	6	across	__lip	N	5			57	
+000057	E	4	1	across	Extraction	Y	10			57	
+000057	MINOR	4	3	across	Not major	N	9			57	
+000057	CAPE	5	1	across	<i>	Y	3	Image of a cape		57	
+000057	LT	5	6	across	Lieutenant	N	10			57	
+000057	TD	6	1	across	Trading Desk	Y	12			57	
+000057	DOE	6	4	across	Bambi's mom	N	11			57	
+000057	AVA	7	1	across	<i>	Y	3	Image of a guava	Gu__	57	
+000057	RNS	7	5	across	ER staffers	N	11			57	
+000057	TIRED	8	1	across	Exhausted	Y	9			57	
+000057	A	8	7	across	Automation	N	10			57	
+000057	OS	9	1	across	Open Source	Y	11			57	
+000057	MEAN	9	4	across	Cruel	N	5			57	
+000057	RETIREE	10	1	across	Pensioner	Y	9			57	
+000057	SPECTATOR	1	2	down	Eventgoer	Y	9			57	
+000057	EO	1	3	down	<i>	Y	3	Image of a video camera	Vid__	57	
+000057	ADVISE	4	3	down	Counsel	N	7			57	
+000057	LUMP	1	4	down	Mass of coal	Y	12			57	
+000057	AR	6	4	down	Annual Report	N	13			57	
+000057	T	9	4	down	Timetable	N	9			57	
+000057	FRIED	1	5	down	<i>	Y	3	Image of fried potatoes	__ potato	57	
+000057	EMI	7	5	down	Bank installment	N	16			57	
+000057	I	1	6	down	Induction	Y	9			57	
+000057	N	3	6	down	Normalization	N	13			57	
+000057	ORDER	5	6	down	Law and __	N	10			57	
+000057	STOLEN	1	7	down	Heist	Y	5			57	
+000057	AE	8	7	down	Sund__	N	6			57	
+000057	HURT	1	8	down	Cause ache	Y	10			57	
+000057	SANE	6	8	down	Not mad	Y	7			57	
+000058	PODCAST	2	1	across	Audio show	Y	10			58	
+000058	RAIL	3	1	across	<i>	Y	3	Image of train tracks		58	
+000058	II	3	6	across	Roman two	N	9			58	
+000058	E	4	1	across	Existence	Y	9			58	
+000058	SOUND	4	3	across	Noise	N	5			58	
+000058	DUCT	5	1	across	<i>	Y	3	Image of an exhaust duct		58	
+000058	FE	5	6	across	Front End	N	9			58	
+000058	IN	6	1	across	__stall	Y	7			58	
+000058	HSU	6	4	across	High-Speed Unit	N	15			58	
+000058	CLA	7	1	across	__sp	Y	4			58	
+000058	ILM	7	5	across	A__ent	N	6			58	
+000058	TIMER	8	1	across	<i>	Y	3	Image of a kitchen timer		58	
+000058	I	8	7	across	Incur	N	5			58	
+000058	EK	9	1	across	Extra Kick	Y	10			58	
+000058	BELL	9	4	across	Big Ben	N	7			58	
+000058	DEFINED	10	1	across	Characterized	Y	13			58	
+000058	PREDICTED	1	2	down	Foresee	Y	7			58	
+000058	OA	1	3	down	Open Access	Y	11			58	
+000058	UNLIKE	4	3	down	Diverse	N	7			58	
+000058	DISC	1	4	down	<i>	Y	3	Image of a CD	Compact __	58	
+000058	AM	6	4	down	Before 12	N	9			58	
+000058	F	9	4	down	Filter	N	6			58	
+000058	CLOTH	1	5	down	<i>	Y	3	Image of a piece of cloth		58	
+000058	EBI	7	5	down	Blu__rd	N	7			58	
+000058	A	1	6	down	Attraction	Y	10			58	
+000058	U	3	6	down	Undertaking	N	11			58	
+000058	SIREN	5	6	down	SOS call	N	8			58	
+000058	SINFUL	1	7	down	Wicked	Y	6			58	
+000058	LE	8	7	down	Legal Entity	N	12			58	
+000058	TIDE	1	8	down	Ocean motion	Y	12			58	
+000058	MILD	6	8	down	Gentle	Y	6			58	
+000059	CASTING	2	1	across	Director's concern	Y	18			59	
+000059	ONTO	3	1	across	Aware of	Y	8			59	
+000059	IE	3	6	across	No bigg__	N	9			59	
+000059	N	4	1	across	Nurturing	Y	9			59	
+000059	RIDGE	4	3	across	Blue __ mtn	N	11			59	
+000059	FUEL	5	1	across	<i>	Y	3	Image of a fuel pump		59	
+000059	HK	5	6	across	Hong Kong	N	9			59	
+000059	INSERT	6	1	across	Embed	Y	5			59	
+000059	D	7	1	across	Domain	Y	6			59	
+000059	STOMA	7	3	across	Plant pore	N	10			59	
+000059	EPO	8	1	across	<i>	Y	3	Image of a coffeepot	Coffe__t	59	
+000059	GAG	8	5	across	Funny bit	N	9			59	
+000059	NURTURE	9	1	across	Raise	Y	5			59	
+000059	TT	10	1	across	Travel Trailer	Y	14			59	
+000059	BEES	10	4	across	<i>	Y	3	Image of a few bees		59	
+000059	CONFIDENT	1	2	down	Bold	Y	4			59	
+000059	AN	1	3	down	<i>	Y	3	Image of a swan	Sw__	59	
+000059	UN	4	3	down	United Nations	N	14			59	
+000059	PUT	7	3	down	Set down	N	8			59	
+000059	STRESSOR	1	4	down	Trigger	Y	7			59	
+000059	TOILET	1	5	down	Restroom	Y	8			59	
+000059	TB	8	5	down	Time Base	N	9			59	
+000059	I	1	6	down	Inclusion	Y	9			59	
+000059	D	3	6	down	Delivery	N	8			59	
+000059	ROGUE	5	6	down	Miscreant	N	9			59	
+000059	NIGHTMARE	1	7	down	Bad Dream	Y	9			59	
+000059	GEEK	1	8	down	Tech Fan	Y	8			59	
+000059	AGES	6	8	down	Epochs	Y	6			59	
+000060	PERSONA	2	1	across	Public image	Y	12			60	
+000060	UY	3	1	across	Uruguay	Y	7			60	
+000060	PUTT	3	4	across	Golfer's shot	N	13			60	
+000060	NEVER	4	1	across	Not even once	Y	13			60	
+000060	X	4	7	across	Extreme	N	7			60	
+000060	C	5	1	across	Construction	Y	12			60	
+000060	EAST	5	3	across	Sunrise spot	N	12			60	
+000060	TURK	6	1	across	Ankara native	Y	13			60	
+000060	AW	6	6	across	Airway	N	6			60	
+000060	UR	7	1	across	<i>	Y	3	Image of an urn	__n	60	
+000060	INCH	7	4	across	Move slowly	N	11			60	
+000060	ALONE	8	1	across	By oneself	Y	10			60	
+000060	E	8	7	across	Enterprise	N	10			60	
+000060	T	9	1	across	Treatment	Y	9			60	
+000060	AGREE	9	3	across	Concur	N	6			60	
+000060	ESS	10	1	across	Before tee	Y	10			60	
+000060	DAL	10	5	across	Indian lentil dish	Y	18			60	
+000060	PUNCTUATE	1	2	down	Add a period	Y	12			60	
+000060	EYE	1	3	down	<i>	Y	3	Image of an eye		60	
+000060	URL	5	3	down	Web link	N	8			60	
+000060	S	9	3	down	Surveillance	N	12			60	
+000060	R	1	4	down	Resolution	Y	10			60	
+000060	VER	3	4	down	Spanish see	N	11			60	
+000060	OAS	7	4	down	T__ter	N	6			60	
+000060	SPEAKING	1	5	down	Verbal	Y	6			60	
+000060	OURS	1	6	down	Not yours	Y	9			60	
+000060	NERD	6	6	down	Geek	N	4			60	
+000060	NT	1	7	down	<i>	Y	3	Image of a rat	Rode__	60	
+000060	TAC	4	7	down	Tic-__-toe	N	10			60	
+000060	EA	8	7	down	Early Arts	N	10			60	
+000060	ATX	1	8	down	Active Trade Execution	Y	22			60	
+000060	WHEEL	5	8	down	<i>	Y	3	Image of a wheel		60	
+000061	ROASTED	2	1	across	Lovingly insulted	Y	17			61	
+000061	EW	3	1	across	<i>	Y	3	Image of a thread and a needle, inserted into a piece of cloth	S__	61	
+000061	CORE	3	4	across	Key	N	3			61	
+000061	SNARL	4	1	across	Growl	Y	5			61	
+000061	N	4	7	across	Nominal	N	7			61	
+000061	I	5	1	across	Induction	Y	9			61	
+000061	PALE	5	3	across	Not bright	N	10			61	
+000061	SPAM	6	1	across	Email Junk	Y	10			61	
+000061	AP	6	6	across	As per	N	6			61	
+000061	TS	7	1	across	<i>	Y	3	Image of a rubber duck floating in the water	Floa__	61	
+000061	BLUE	7	4	across	Sky hue	N	7			61	
+000061	AISLE	8	1	across	<i>	Y	3	Image of an airplane aisle, with a focus on the aisle part		61	
+000061	T	8	7	across	Timetable	N	9			61	
+000061	N	9	1	across	Notion	Y	6			61	
+000061	RESET	9	3	across	Start over	N	10			61	
+000061	TRI	10	1	across	<i>	Y	3	Image of a triangle	__angle	61	
+000061	TAY	10	5	across	Homes__	Y	7			61	
+000061	RESISTANT	1	2	down	Sturdy	Y	6			61	
+000061	OWN	1	3	down	Possess	Y	7			61	
+000061	PSI	5	3	down	Pressure unit	N	13			61	
+000061	R	9	3	down	Reformation	N	11			61	
+000061	A	1	4	down	Attitude	Y	8			61	
+000061	APA	3	4	down	Shrinks' org.	N	13			61	
+000061	SRI	7	4	down	__ Lanka	N	8			61	
+000061	SCRAMBLE	1	5	down	Mad rush	Y	8			61	
+000061	TOLL	1	6	down	Bell sound	Y	10			61	
+000061	LEST	6	6	down	Avoid	N	5			61	
+000061	ER	1	7	down	Expense Report	Y	14			61	
+000061	EAU	4	7	down	__ de parfum	N	12			61	
+000061	EA	8	7	down	Event attendee	N	14			61	
+000061	DEN	1	8	down	<i>	Y	3	Image of a lion's den		61	
+000061	PETTY	5	8	down	Trivial	Y	7			61	
+000062	DWELLER	2	1	across	Inhabitant	Y	10			62	
+000062	II	3	1	across	Roman 2	Y	7			62	
+000062	AIDE	3	4	across	Helper	N	6			62	
+000062	SPACE	4	1	across	<i>	Y	3	Image of the backspace key on a keyboard	Back__	62	
+000062	D	4	7	across	Deviation	N	9			62	
+000062	C	5	1	across	Confirmation	Y	12			62	
+000062	DRUM	5	3	across	Oil barrel	N	10			62	
+000062	HALO	6	1	across	<i>	Y	3	Image of a halo around the angel's head		62	
+000062	VS	6	6	across	Voice Service	N	13			62	
+000062	AN	7	1	across	<i>	Y	3	Image of an orange	Or__ge	62	
+000062	SLAP	7	4	across	Smack	N	5			62	
+000062	RAISE	8	1	across	Lift	Y	4			62	
+000062	O	8	7	across	Overview	N	8			62	
+000062	G	9	1	across	Granularity	Y	11			62	
+000062	REFER	9	3	across	Mention	N	7			62	
+000062	EST	10	1	across	<i>	Y	3	Image of a bird's nest	N__	62	
+000062	TAE	10	5	across	Curriculum vi__	Y	15			62	
+000062	DISCHARGE	1	2	down	Send packing	Y	12			62	
+000062	WIP	1	3	down	Work in progress	Y	16			62	
+000062	ANA	5	3	down	__ de Armas	N	11			62	
+000062	S	9	3	down	Sensitivity	N	11			62	
+000062	E	1	4	down	Expenditure	Y	11			62	
+000062	ADL	3	4	down	All day long	N	12			62	
+000062	IRT	7	4	down	V__ual	N	6			62	
+000062	LACROSSE	1	5	down	Stick game	Y	10			62	
+000062	LIEU	1	6	down	Instead	Y	7			62	
+000062	LEFT	6	6	down	Not right	N	9			62	
+000062	ED	1	7	down	Education	Y	9			62	
+000062	MVA	4	7	down	Megavolt ampere	N	15			62	
+000062	EA	8	7	down	Ever Active	N	11			62	
+000062	RED	1	8	down	<i>	Y	3	Image of a red colored circle		62	
+000062	SPORE	5	8	down	Tiny cell	Y	9			62	
+000063	DILEMMA	2	1	across	Pickle	Y	6			63	
+000063	IN	3	1	across	<i>	Y	3	Image of a pushpin	P__	63	
+000063	VIAL	3	4	across	Potion jar	N	10			63	
+000063	SNAIL	4	1	across	<i>	Y	3	Image of a snail		63	
+000063	L	4	7	across	Lineage	N	7			63	
+000063	P	5	1	across	Proposal	Y	8			63	
+000063	IDLE	5	3	across	Not busy	N	8			63	
+000063	LONE	6	1	across	Single	Y	6			63	
+000063	AW	6	6	across	Pr__n	N	5			63	
+000063	AN	7	1	across	Alpha Numeric	Y	13			63	
+000063	NOPE	7	4	across	No	N	2			63	
+000063	CIRCA	8	1	across	Roughly	Y	7			63	
+000063	A	8	7	across	Assimilation	N	12			63	
+000063	E	9	1	across	Expression	Y	10			63	
+000063	PETER	9	3	across	__ Pan	N	6			63	
+000063	DYE	10	1	across	<i>	Y	3	Image of a tie-dye fabric	Tie-__	63	
+000063	SAY	10	5	across	Speak	Y	5			63	
+000063	DISPLACED	1	2	down	Moved	Y	5			63	
+000063	INN	1	3	down	Lodge	Y	5			63	
+000063	ONI	5	3	down	T__c	N	4			63	
+000063	Y	9	3	down	Yellowing	N	9			63	
+000063	L	1	4	down	Legislation	Y	11			63	
+000063	AIN	3	4	down	Disd__	N	6			63	
+000063	RPE	7	4	down	Retail Price Index	N	18			63	
+000063	EVIDENCE	1	5	down	Proof	Y	5			63	
+000063	MILL	1	6	down	<i>	Y	3	Image of a wind__		63	
+000063	OATS	6	6	down	Granola grains	N	14			63	
+000063	MA	1	7	down	<i>	Y	3	Image of the Greek letter sigma	Sig__	63	
+000063	EAP	4	7	down	Edgar A. Poe	N	12			63	
+000063	EA	8	7	down	East Africa	N	11			63	
+000063	ALL	1	8	down	Entirely	Y	8			63	
+000063	WEARY	5	8	down	Exhausted	Y	9			63	
+000064	HANDFUL	2	1	across	Small amount	Y	12			64	
+000064	EY	3	1	across	Ernst and Young	Y	15			64	
+000064	RITE	3	4	across	Solemn act	N	10			64	
+000064	PETAL	4	1	across	<i>	Y	3	Image of a flower with an arrow pointing to a petal		64	
+000064	G	4	7	across	Goodwill	N	8			64	
+000064	A	5	1	across	Analyzation	Y	11			64	
+000064	PIMP	5	3	across	__le	N	4			64	
+000064	THAN	6	1	across	Larger __ life	Y	14			64	
+000064	AC	6	6	across	Access Card	N	11			64	
+000064	IU	7	1	across	<i>	Y	3	Image of a circle with a line marking the radius	Rad__s	64	
+000064	ARCH	7	4	across	Foot part	N	9			64	
+000064	TANGO	8	1	across	Sierra follower	Y	15			64	
+000064	I	8	7	across	Incorporation	N	13			64	
+000064	I	9	1	across	First person	Y	12			64	
+000064	REVEL	9	3	across	Live it up	N	10			64	
+000064	SPC	10	1	across	Specification	Y	13			64	
+000064	ELL	10	5	across	Angled pipe	Y	11			64	
+000064	HEPATITIS	1	2	down	Liver disease	Y	13			64	
+000064	AYE	1	3	down	Sailor's yes	Y	12			64	
+000064	HUA	5	3	down	Heavy Urban Area	N	16			64	
+000064	P	9	3	down	Paradigm	N	8			64	
+000064	N	1	4	down	Notification	Y	12			64	
+000064	TPA	3	4	down	Third party admin	N	17			64	
+000064	NRC	7	4	down	Nonreusable can	N	15			64	
+000064	DRAINAGE	1	5	down	Outflow	Y	7			64	
+000064	FILM	1	6	down	<i>	Y	3	Image of a film reel	__ reel	64	
+000064	ROVE	6	6	down	Meander	N	7			64	
+000064	UT	1	7	down	Universal time	Y	14			64	
+000064	PAC	4	7	down	__-Man	N	6			64	
+000064	EL	8	7	down	Element	N	7			64	
+000064	LEG	1	8	down	<i>	Y	3	Image of a boy with an arrow pointing to the pant leg		64	
+000064	CHILL	5	8	down	Cool	Y	4			64	
+000065	AGITATE	2	1	across	Provoke	Y	7			65	
+000065	FREE	3	1	across	No cost	Y	7			65	
+000065	HV	3	6	across	Hudson Valley	N	13			65	
+000065	TOT	4	1	across	Tiny one	Y	8			65	
+000065	MAE	4	5	across	Actress West	N	12			65	
+000065	EV	5	1	across	<i>	Y	3	Image of a sieve	Si__e	65	
+000065	BIT	5	4	across	Rab__	N	5			65	
+000065	RESIN	6	1	across	<i>	Y	3	Image of a resin pendant	__ pendant	65	
+000065	T	6	7	across	Trickle	N	7			65	
+000065	W	7	1	across	Wanderlust	Y	10			65	
+000065	PRIDE	7	3	across	Group of lions	N	14			65	
+000065	ACID	8	1	across	Hydrochloric __	Y	15			65	
+000065	ED	8	6	across	Singer Sheeran	N	14			65	
+000065	RETIRED	9	1	across	Not working	Y	11			65	
+000065	DE	10	1	across	Mo__rn	Y	6			65	
+000065	EMMY	10	4	across	<i>	Y	3	Image of an Emmy award		65	
+000065	AFTERWARD	1	2	down	Later	Y	5			65	
+000065	GROVE	1	3	down	Small wood	Y	10			65	
+000065	CEE	7	3	down	Ex__d	N	5			65	
+000065	IET	1	4	down	Var__y	Y	6			65	
+000065	SPIT	5	4	down	Saliva	N	6			65	
+000065	TE	1	5	down	<i>	Y	3	Image of a kite	Ki__	65	
+000065	BIRDIE	4	5	down	Shuttlecock	N	11			65	
+000065	A	1	6	down	__ for apple	Y	12			65	
+000065	MINI	3	6	down	__ Cooper	N	9			65	
+000065	RM	8	6	down	Raw Material	N	12			65	
+000065	THAT	1	7	down	This and __	Y	11			65	
+000065	DEEM	6	7	down	Consider	N	8			65	
+000065	EVE	1	8	down	Eden woman	Y	10			65	
+000065	TEDDY	5	8	down	<i>	Y	3	Image of a teddy bear		65	
+000066	IMITATE	2	1	across	Copy	Y	4			66	
+000066	NOSE	3	1	across	<i>	Y	3	Image of a nose		66	
+000066	HX	3	6	across	Hospital X-ray	N	14			66	
+000066	CTA	4	1	across	<i>	Y	3	Image of a bee collecting nectar	Ne__r	66	
+000066	ZIP	4	5	across	Postal code	N	11			66	
+000066	IT	5	1	across	Pennywise's movie	Y	17			66	
+000066	SEN	5	4	across	__ator	N	6			66	
+000066	DONOR	6	1	across	Blood giver	Y	11			66	
+000066	N	6	7	across	Nostalgia	N	9			66	
+000066	E	7	1	across	Engage	Y	6			66	
+000066	AROMA	7	3	across	Fragrance	N	9			66	
+000066	NOIR	8	1	across	Pinot __	Y	8			66	
+000066	AM	8	6	across	Aston Martin	N	12			66	
+000066	CALORIE	9	1	across	Diet count	Y	10			66	
+000066	EF	10	1	across	<i>	Y	3	Image of a chef	Ch__	66	
+000066	WILD	10	4	across	Untamed	Y	7			66	
+000066	INCIDENCE	1	2	down	Occurrence	Y	10			66	
+000066	MOTTO	1	3	down	Words to live by	Y	16			66	
+000066	OAF	7	3	down	Clumsy fellow	N	13			66	
+000066	ISA	1	4	down	__ac	Y	4			66	
+000066	NAIL	5	4	down	Hammer target	N	13			66	
+000066	TE	1	5	down	<i>	Y	3	Image of a mute button	Mu__	66	
+000066	SORROW	4	5	down	Sadness	N	7			66	
+000066	A	1	6	down	Arcane	Y	6			66	
+000066	ZERO	3	6	down	Nil	N	3			66	
+000066	RI	8	6	down	W__ter	N	6			66	
+000066	THIN	1	7	down	Slim	Y	4			66	
+000066	MAIL	6	7	down	Post	N	4			66	
+000066	EXP	1	8	down	__ort	Y	5			66	
+000066	NAMED	5	8	down	Titled	Y	6			66	
+000067	INSTILL	2	1	across	Slowly add	Y	10			67	
+000067	NOTE	3	1	across	<i>	Y	3	Image of a notebook	__book	67	
+000067	EE	3	6	across	Gr__n	N	5			67	
+000067	CIS	4	1	across	In__ion	Y	7			67	
+000067	DAD	4	5	across	Father	N	6			67	
+000067	OS	5	1	across	<i>	Y	3	Image of a rose	R__e	67	
+000067	BED	5	4	across	Sleeping spot	N	13			67	
+000067	REGAL	6	1	across	Majestic	Y	8			67	
+000067	F	6	7	across	Finesse	N	7			67	
+000067	R	7	1	across	After Q	Y	7			67	
+000067	ALIKE	7	3	across	Similar	N	7			67	
+000067	EVIL	8	1	across	Like villains	Y	13			67	
+000067	NI	8	6	across	Not Important	N	13			67	
+000067	CATALOG	9	1	across	Shopper's guide	Y	15			67	
+000067	TT	10	1	across	Table Tennis	Y	12			67	
+000067	DOWN	10	4	across	<i>	Y	3	Image of an arrow pointing down		67	
+000067	INCORRECT	1	2	down	Wrong	Y	5			67	
+000067	NOISE	1	3	down	Loud din	Y	8			67	
+000067	VAT	7	3	down	Large tub	N	9			67	
+000067	STS	1	4	down	Touri__	Y	7			67	
+000067	GAIT	5	4	down	Stride	N	6			67	
+000067	TE	1	5	down	<i>	Y	3	Image of a wooden crate	Cra__	67	
+000067	BALLAD	4	5	down	Romantic song	N	13			67	
+000067	I	1	6	down	Ignite	Y	6			67	
+000067	DELI	3	6	down	Sandwich shop	N	13			67	
+000067	LO	8	6	down	Look Out	N	8			67	
+000067	LEAD	1	7	down	Be in charge	Y	12			67	
+000067	KNOW	6	7	down	Be aware	N	8			67	
+000067	LED	1	8	down	__ Zeppelin	Y	11			67	
+000067	FEIGN	5	8	down	Fake	Y	4			67	
+000068	SEVERAL	2	1	across	Multiple	Y	8			68	
+000068	UPON	3	1	across	Atop	Y	4			68	
+000068	DU	3	6	across	Dual use	N	8			68	
+000068	PIX	4	1	across	<i>	Y	3	Image of a pixie fairy	__ie	68	
+000068	CUT	4	5	across	Director's cry	N	14			68	
+000068	EC	5	1	across	European Commission	Y	19			68	
+000068	MALE	5	4	across	Bull or buck	N	12			68	
+000068	R	6	1	across	Rehabilitation	Y	14			68	
+000068	SORT	6	3	across	Kind	N	4			68	
+000068	STUNT	7	1	across	<i>	Y	3	Image of a person performing a cycle stunt		68	
+000068	W	7	7	across	Weather	N	7			68	
+000068	TI	8	1	across	Texas Instruments	Y	17			68	
+000068	DOME	8	4	across	Rounded roof	N	12			68	
+000068	ARRANGE	9	1	across	Order	Y	5			68	
+000068	RELY	10	1	across	Depend on	Y	9			68	
+000068	SD	10	6	across	South Dakota	Y	12			68	
+000068	SUPERSTAR	1	2	down	Celebrity	Y	9			68	
+000068	EPIC	1	3	down	Grand story	Y	11			68	
+000068	TIRE	6	3	down	Car wheel	N	9			68	
+000068	VOX	1	4	down	__ populi	Y	9			68	
+000068	SU	5	4	down	Soviet Union	N	12			68	
+000068	RL	8	4	down	Ralph Lauren	N	12			68	
+000068	EN	1	5	down	<i>	Y	3	Image of a park bench	B__ch	68	
+000068	MONDAY	4	5	down	Calendar's M	N	12			68	
+000068	R	1	6	down	Reiteration	Y	11			68	
+000068	CARTON	3	6	down	Egg holder	N	10			68	
+000068	ADULT	1	7	down	Grownup	Y	7			68	
+000068	MGS	7	7	down	Mild Grade Steel	N	16			68	
+000068	LUTE	1	8	down	<i>	Y	3	Image of a lute		68	
+000068	WEED	6	8	down	Unwanted plant	Y	14			68	
+000069	SOPRANO	2	1	across	Opera star	Y	10			69	
+000069	PUMP	3	1	across	<i>	Y	3	Image of a water pump		69	
+000069	ON	3	6	across	Not off	N	7			69	
+000069	ISS	4	1	across	Initial sequence set	Y	20			69	
+000069	PTL	4	5	across	Permit to let	N	13			69	
+000069	RT	5	1	across	<i>	Y	3	Image of a fort	Fo__	69	
+000069	THEY	5	4	across	Not us	N	6			69	
+000069	I	6	1	across	Inscription	Y	11			69	
+000069	PROD	6	3	across	Nudge	N	5			69	
+000069	TRAIT	7	1	across	Characteristic	Y	14			69	
+000069	H	7	7	across	Habituation	N	11			69	
+000069	UI	8	1	across	<i>	Y	3	Image of a fruit basket	Fr__ts	69	
+000069	PONY	8	4	across	Tiny horse	N	10			69	
+000069	ACRONYM	9	1	across	Initials	Y	8			69	
+000069	LEND	10	1	across	Offer cash	Y	10			69	
+000069	UN	10	6	across	<i>	Y	3	Image of a bakery bun	B__	69	
+000069	SPIRITUAL	1	2	down	Religious 	Y	10			69	
+000069	OUST	1	3	down	Dethrone	Y	8			69	
+000069	RICE	6	3	down	Sushi base	N	10			69	
+000069	PMS	1	4	down	Evening hours	Y	13			69	
+000069	PA	5	4	down	Port Angeles	N	12			69	
+000069	RN	8	4	down	Right now	N	9			69	
+000069	RP	1	5	down	Mo__h	Y	5			69	
+000069	TRIPOD	4	5	down	Camera stand	N	12			69	
+000069	A	1	6	down	Application	Y	11			69	
+000069	PHOTON	3	6	down	Laser particle	N	14			69	
+000069	NOTED	1	7	down	Famous	Y	6			69	
+000069	NYU	7	7	down	New York Univ.	N	14			69	
+000069	ONLY	1	8	down	Just	Y	4			69	
+000069	HYMN	6	8	down	Church song	Y	11			69	
+000070	CRUSADE	2	1	across	Knight's war	Y	12			70	
+000070	LO	3	1	across	Low output	Y	10			70	
+000070	STEM	3	4	across	Fruit holder	N	12			70	
+000070	ASL	4	1	across	Above sea level	Y	15			70	
+000070	SEA	4	5	across	Wide body	N	9			70	
+000070	SEEP	5	1	across	Leak out	Y	8			70	
+000070	RI	5	6	across	Rhode Island	N	12			70	
+000070	S	6	1	across	Stratification	Y	14			70	
+000070	AAH	6	3	across	Satisfied sigh	N	14			70	
+000070	L	6	7	across	Linearity	N	9			70	
+000070	MANIAC	7	1	across	Flashdance song	Y	15			70	
+000070	AP	8	1	across	Asia Pacific	Y	12			70	
+000070	DROP	8	4	across	Exclude	N	7			70	
+000070	TEA	9	1	across	<i>	Y	3	Image of a tea bag		70	
+000070	MAO	9	5	across	__ Zedong	N	9			70	
+000070	EXAM	10	1	across	Big test	Y	8			70	
+000070	LD	10	6	across	Low depth	Y	9			70	
+000070	CLASSMATE	1	2	down	Fellow student	Y	14			70	
+000070	ROSE	1	3	down	<i>	Y	3	Image of a rose		70	
+000070	APEX	6	3	down	Top spot	N	8			70	
+000070	U	1	4	down	Upgradation	Y	11			70	
+000070	LEAN	3	4	down	Tilt	N	4			70	
+000070	AA	8	4	down	Acetic acid	N	11			70	
+000070	SS	1	5	down	Solar System	Y	12			70	
+000070	PAID	4	5	down	Settled up	N	10			70	
+000070	M	9	5	down	Morphology	N	10			70	
+000070	ATS	1	6	down	Air traffic service	Y	19			70	
+000070	HARM	5	6	down	Injure	N	6			70	
+000070	DEER	1	7	down	<i>	Y	3	Image of a deer		70	
+000070	COAL	6	7	down	Mined fuel	N	10			70	
+000070	EMAIL	1	8	down	<i>	Y	3	Image of an email icon		70	
+000070	POD	7	8	down	<i>	Y	3	Image of a pea pod	Pea __	70	
