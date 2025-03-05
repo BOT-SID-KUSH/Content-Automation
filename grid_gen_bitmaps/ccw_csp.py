@@ -919,14 +919,16 @@ def main():
             if generated_grids:
                 st.success(f"Successfully generated {len(generated_grids)} crossword grids!")
                 
+                # Provide download link
+                st.markdown(get_download_link(generated_grids), unsafe_allow_html=True)
+                
                 # Display a sample of the generated grids
                 st.subheader("Sample of Generated Grids")
                 for i, (filename, grid) in enumerate(generated_grids):
                     with st.expander(f"Grid {i+1} - {filename}"):
                         st.markdown(display_grid(grid), unsafe_allow_html=True)
                 
-                # Provide download link
-                st.markdown(get_download_link(generated_grids), unsafe_allow_html=True)
+                
             else:
                 st.warning("No grids were generated. Try again or adjust parameters.")
 
