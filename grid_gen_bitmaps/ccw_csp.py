@@ -560,7 +560,7 @@ def read_word_groups(file_path=const.GROUPED_WORD_PATH):
 
 TOTAL_PUZZLES_TO_GENERATE=50
 
-def fill_grid_completely(num_puzzles=5, use_quick_check=True, previous_content=None):
+def fill_grid_completely(start_puzzle_num=None,num_puzzles=5, use_quick_check=True, previous_content=None):
     num_of_formats = 15
     counter = 0
     reattempt = False
@@ -570,7 +570,9 @@ def fill_grid_completely(num_puzzles=5, use_quick_check=True, previous_content=N
         # read_word_list()
         read_word_groups()
         maps = load_word_index_maps()
-        initial_puzzle_num = initialize_queues_from_tsv(maps, previous_content)
+        initial_puzzle_num = initialize_queues_from_tsv(maps, previous_content) 
+        if start_puzzle_num is not None:
+            initial_puzzle_num = start_puzzle_num
         current_puzzle_num = initial_puzzle_num
         
         progress_bar = st.progress(0)
@@ -905,33 +907,39 @@ def main():
     if uploaded_file is not None:
         previous_content = uploaded_file.read()
         st.success("File uploaded successfully!")
-        
-        st.write("""
-        Select the number of puzzles to generate and click the button below.
-        """)
-        
-        num_puzzles = st.slider("Number of puzzles to generate", 1, 200, 20)
-        # use_quick = st.checkbox("Use quick check (faster but may fail more often)", value=True)
-        use_quick = True
-        if st.button("Generate Crossword Grids"):
-            generated_grids = fill_grid_completely(num_puzzles, use_quick, previous_content)
+        start_puzzle_num = st.number_input("Start puzzle number", value=None, min_value=1, max_value=1000000, step=1)
+        if start_puzzle_num:
+            st.write(f"Starting from puzzle number: {start_puzzle_num}")
+            st.write("""
+            Select the number of puzzles to generate and click the button below.
+            """)
             
-            if generated_grids:
-                st.success(f"Successfully generated {len(generated_grids)} crossword grids!")
+            num_puzzles = st.slider("Number of puzzles to generate", 1, 200, 20)
+            # use_quick = st.checkbox("Use quick check (faster but may fail more often)", value=True)
+            use_quick = True
+            if st.button("Generate Crossword Grids"):
+                generated_grids = fill_grid_completely(start_puzzle_num,num_puzzles, use_quick, previous_content)
                 
-                # Provide download link
-                st.markdown(get_download_link(generated_grids), unsafe_allow_html=True)
-                
-                # Display a sample of the generated grids
-                st.subheader("Sample of Generated Grids")
-                for i, (filename, grid) in enumerate(generated_grids):
-                    with st.expander(f"Grid {i+1} - {filename}"):
-                        st.markdown(display_grid(grid), unsafe_allow_html=True)
-                
-                
-            else:
-                st.warning("No grids were generated. Try again or adjust parameters.")
+                if generated_grids:
+                    st.success(f"Successfully generated {len(generated_grids)} crossword grids!")
+                    
+                    # Provide download link
+                    st.markdown(get_download_link(generated_grids), unsafe_allow_html=True)
 
+                    # Display a sample of the generated grids
+                    st.subheader("Sample of Generated Grids")
+                    for i, (filename, grid) in enumerate(generated_grids):
+                        with st.expander(f"Grid {i+1} - {filename}"):
+                            st.markdown(display_grid(grid), unsafe_allow_html=True)
+                    
+                    
+                else:
+                    st.warning("No grids were generated. Try again or adjust parameters.")
+           
+        else:
+            st.warning("Please enter a starting puzzle number")
+        
+        
 # Replace the direct call to fill_grid_completely with this
 if __name__ == "__main__":
     main()
