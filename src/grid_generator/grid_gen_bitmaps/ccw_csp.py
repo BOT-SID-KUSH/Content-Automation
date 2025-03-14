@@ -1,7 +1,7 @@
 import json
 import random
-import constant as const
-from crossowrd import *
+from . import constant as const
+from .crossowrd import *
 import traceback,time
 from copy import deepcopy,copy
 import time
@@ -13,7 +13,7 @@ import zipfile
 import io
 import base64
 
-from bitmap_array import active_bits, and_bits, in_place_and, bit_count, zero, set_bit, unset_bit,count_set_bits
+from .bitmap_array import active_bits, and_bits, in_place_and, bit_count, zero, set_bit, unset_bit,count_set_bits
 
 
 class CrosswordCreator():
@@ -567,7 +567,6 @@ def fill_grid_completely(start_puzzle_num=None,num_puzzles=5, use_quick_check=Tr
     generated_grids = []
     
     try:
-        # read_word_list()
         read_word_groups()
         maps = load_word_index_maps()
         initial_puzzle_num = initialize_queues_from_tsv(maps, previous_content) 
@@ -575,13 +574,8 @@ def fill_grid_completely(start_puzzle_num=None,num_puzzles=5, use_quick_check=Tr
             initial_puzzle_num = start_puzzle_num
         current_puzzle_num = initial_puzzle_num
         
-        progress_bar = st.progress(0)
-        status_text = st.empty()
-        grid_display = st.empty()
-        i=0
-        while i<num_puzzles:
-            status_text.text(f"Generating puzzle {i+1}/{num_puzzles}...")
-            
+        i = 0
+        while i < num_puzzles:
             if not reattempt:
                 use_quick_check = True
                 
@@ -594,19 +588,13 @@ def fill_grid_completely(start_puzzle_num=None,num_puzzles=5, use_quick_check=Tr
             crossword = Crossword(file_path + str((counter % num_of_formats) + 1) + '.txt')
             creator = CrosswordCreator(crossword, maps, use_quick_check)
             
-            with st.spinner(f"Solving grid {i+1}..."):
-                assignment = creator.solve_bitmap(use_quick_check)
+            assignment = creator.solve_bitmap(use_quick_check)
             
             if not assignment:
                 counter += 1
-                status_text.text(f"Failed to generate puzzle {i+1}. Trying again...")
             else:
                 filled_grid = creator.print(assignment)
                 words_in_grid = extract_words(filled_grid)
-                
-                # Display the grid
-                grid_text = "\n".join(["".join(row) for row in filled_grid])
-                grid_display.text_area("Generated Grid:", grid_text, height=300)
                 
                 # Save filled grid to file
                 format_num = (counter % num_of_formats) + 1
@@ -622,16 +610,13 @@ def fill_grid_completely(start_puzzle_num=None,num_puzzles=5, use_quick_check=Tr
                 counter += 1
                 current_puzzle_num += 1
                 reattempt = False
-                i+=1
+                i += 1
                 
-            progress_bar.progress((i) / num_puzzles)
-            
-        status_text.text(f"Generated {len(generated_grids)} puzzles successfully!")
         return generated_grids
         
     except Exception as e:
-        st.error(f"Error: {str(e)}")
-        st.exception(e)
+        print(f"Error: {str(e)}")
+        traceback.print_exc()
         return generated_grids
 
 
@@ -890,56 +875,56 @@ def display_grid(grid):
     grid_html += "</div>"
     return grid_html
 
-# Modify the main function to include file upload
-def main():
-    st.title("Crossword Grid Generator")
+# # Modify the main function to include file upload
+# def main():
+#     st.title("Crossword Grid Generator")
     
-    st.write("""
-    This app generates filled crossword grids using a constraint satisfaction algorithm.
-    Please upload a previous content file to begin.
-    """)
+#     st.write("""
+#     This app generates filled crossword grids using a constraint satisfaction algorithm.
+#     Please upload a previous content file to begin.
+#     """)
     
-    # Add file uploader for previous_content.tsv
-    st.subheader("Upload previous content")
-    st.write("Please upload a previous_content.tsv file to continue.")
-    uploaded_file = st.file_uploader("Upload previous_content.tsv", type=["tsv"])
+#     # Add file uploader for previous_content.tsv
+#     st.subheader("Upload previous content")
+#     st.write("Please upload a previous_content.tsv file to continue.")
+#     uploaded_file = st.file_uploader("Upload previous_content.tsv", type=["tsv"])
     
-    if uploaded_file is not None:
-        previous_content = uploaded_file.read()
-        st.success("File uploaded successfully!")
-        start_puzzle_num = st.number_input("Start puzzle number", value=None, min_value=1, max_value=1000000, step=1)
-        if start_puzzle_num:
-            st.write(f"Starting from puzzle number: {start_puzzle_num}")
-            st.write("""
-            Select the number of puzzles to generate and click the button below.
-            """)
+#     if uploaded_file is not None:
+#         previous_content = uploaded_file.read()
+#         st.success("File uploaded successfully!")
+#         start_puzzle_num = st.number_input("Start puzzle number", value=None, min_value=1, max_value=1000000, step=1)
+#         if start_puzzle_num:
+#             st.write(f"Starting from puzzle number: {start_puzzle_num}")
+#             st.write("""
+#             Select the number of puzzles to generate and click the button below.
+#             """)
             
-            num_puzzles = st.slider("Number of puzzles to generate", 1, 200, 20)
-            # use_quick = st.checkbox("Use quick check (faster but may fail more often)", value=True)
-            use_quick = True
-            if st.button("Generate Crossword Grids"):
-                generated_grids = fill_grid_completely(start_puzzle_num,num_puzzles, use_quick, previous_content)
+#             num_puzzles = st.slider("Number of puzzles to generate", 1, 200, 20)
+#             # use_quick = st.checkbox("Use quick check (faster but may fail more often)", value=True)
+#             use_quick = True
+#             if st.button("Generate Crossword Grids"):
+#                 generated_grids = fill_grid_completely(start_puzzle_num,num_puzzles, use_quick, previous_content)
                 
-                if generated_grids:
-                    st.success(f"Successfully generated {len(generated_grids)} crossword grids!")
+#                 if generated_grids:
+#                     st.success(f"Successfully generated {len(generated_grids)} crossword grids!")
                     
-                    # Provide download link
-                    st.markdown(get_download_link(generated_grids), unsafe_allow_html=True)
+#                     # Provide download link
+#                     st.markdown(get_download_link(generated_grids), unsafe_allow_html=True)
 
-                    # Display a sample of the generated grids
-                    st.subheader("Sample of Generated Grids")
-                    for i, (filename, grid) in enumerate(generated_grids):
-                        with st.expander(f"Grid {i+1} - {filename}"):
-                            st.markdown(display_grid(grid), unsafe_allow_html=True)
+#                     # Display a sample of the generated grids
+#                     st.subheader("Sample of Generated Grids")
+#                     for i, (filename, grid) in enumerate(generated_grids):
+#                         with st.expander(f"Grid {i+1} - {filename}"):
+#                             st.markdown(display_grid(grid), unsafe_allow_html=True)
                     
                     
-                else:
-                    st.warning("No grids were generated. Try again or adjust parameters.")
+#                 else:
+#                     st.warning("No grids were generated. Try again or adjust parameters.")
            
-        else:
-            st.warning("Please enter a starting puzzle number")
+#         else:
+#             st.warning("Please enter a starting puzzle number")
         
         
-# Replace the direct call to fill_grid_completely with this
-if __name__ == "__main__":
-    main()
+# # Replace the direct call to fill_grid_completely with this
+# if __name__ == "__main__":
+#     main()
