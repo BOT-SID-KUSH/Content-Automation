@@ -1,7 +1,7 @@
 import json
 import random
-import constant as const
-from crossowrd import *
+from . import constant as const
+from .crossowrd import *
 import traceback,time
 from copy import deepcopy,copy
 import time
@@ -13,7 +13,7 @@ import zipfile
 import io
 import base64
 
-from bitmap_array import active_bits, and_bits, in_place_and, bit_count, zero, set_bit, unset_bit,count_set_bits
+from .bitmap_array import active_bits, and_bits, in_place_and, bit_count, zero, set_bit, unset_bit,count_set_bits
 
 
 class CrosswordCreator():
