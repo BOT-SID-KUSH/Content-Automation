@@ -15,7 +15,8 @@ import base64
 
 from logics.grid_generator.grid_gen_bitmaps.bitmap_array import active_bits, and_bits, in_place_and, bit_count, zero, set_bit, unset_bit,count_set_bits
 
-logics_path = "/Users/chirag/Content-Automation/logics/grid_generator/grid_gen_bitmaps"
+logics_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 
+                          "logics", "grid_generator", "grid_gen_bitmaps")
 
 class CrosswordCreator():
     
@@ -545,7 +546,6 @@ def sanitize_string(str, replace="", regex=r"[^\w\s]"):
 #     const.WORD_LIST_DATA = deepcopy(const.WORD_LIST)
 
 def read_word_groups(file_path=const.GROUPED_WORD_PATH):
-    print("script_dir",logics_path)
     file_path = os.path.join(logics_path, file_path)
     print("file_path",file_path)
     with open(file_path, mode='r') as file:
